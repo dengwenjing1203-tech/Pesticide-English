@@ -1,0 +1,162 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+
+body{
+    background:#f4f8f5;
+    color:#333;
+}
+
+header{
+    background:#2e7d32;
+    color:white;
+    text-align:center;
+    padding:30px;
+    box-shadow:0 2px 10px rgba(0,0,0,.2);
+}
+
+header h1{
+    font-size:34px;
+    margin-bottom:10px;
+}
+
+header p{
+    font-size:16px;
+    opacity:.9;
+}
+
+.search-area{
+    width:90%;
+    max-width:900px;
+    margin:30px auto;
+}
+
+#search{
+    width:100%;
+    padding:16px;
+    border-radius:12px;
+    border:none;
+    font-size:18px;
+    outline:none;
+    box-shadow:0 3px 10px rgba(0,0,0,.15);
+}
+
+#alphabet{
+    width:90%;
+    max-width:1000px;
+    margin:25px auto;
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    justify-content:center;
+}
+
+.letter{
+    width:40px;
+    height:40px;
+    background:white;
+    border-radius:8px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+    transition:.25s;
+    font-weight:bold;
+    box-shadow:0 2px 5px rgba(0,0,0,.12);
+}
+
+.letter:hover{
+    background:#4caf50;
+    color:white;
+    transform:translateY(-2px);
+}
+
+#wordList{
+    width:90%;
+    max-width:1000px;
+    margin:30px auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:white;
+    border-radius:16px;
+    padding:22px;
+    box-shadow:0 5px 15px rgba(0,0,0,.12);
+    transition:.25s;
+}
+
+.card:hover{
+    transform:translateY(-6px);
+}
+
+.english{
+    font-size:26px;
+    font-weight:bold;
+    color:#2e7d32;
+    cursor:pointer;
+}
+
+.chinese{
+    margin-top:10px;
+    font-size:20px;
+}
+
+.button-area{
+    margin-top:18px;
+    display:flex;
+    gap:10px;
+}
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:15px;
+    transition:.2s;
+}
+
+.play{
+    background:#4caf50;
+    color:white;
+}
+
+.star{
+    background:#ff9800;
+    color:white;
+}
+
+.hide{
+    background:#607d8b;
+    color:white;
+}
+
+button:hover{
+    opacity:.85;
+}
+
+@media(max-width:768px){
+
+header h1{
+font-size:26px;
+}
+
+.card{
+padding:18px;
+}
+
+.english{
+font-size:22px;
+}
+
+.chinese{
+font-size:18px;
+}
+
+}
