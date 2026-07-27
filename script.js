@@ -64,13 +64,21 @@ render(demoData);
 
 function speak(text){
 
-    let speech=new SpeechSynthesisUtterance(text);
+    speechSynthesis.cancel();
 
-    speech.lang="en-US";
+    const speech = new SpeechSynthesisUtterance(text);
 
-    speech.rate=0.9;
+    speech.lang = "en-US";
 
-    speech.pitch=1;
+    speech.rate = 0.85;
+
+    speech.pitch = 1;
+
+    const voices = speechSynthesis.getVoices();
+
+    speech.voice = voices.find(
+        v => v.name.includes("Zira")
+    );
 
     speechSynthesis.speak(speech);
 
