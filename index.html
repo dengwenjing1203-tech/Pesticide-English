@@ -2,44 +2,204 @@
 <html lang="zh-CN">
 
 <head>
+    <meta charset="UTF-8">
 
-<meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GB4839 农药英语学习助手</title>
 
-<title>GB4839 农药英语学习助手</title>
-
-<link rel="stylesheet" href="style.css">
-
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
 </head>
+
 
 <body>
 
 <header>
 
-<h1>🌿 GB4839 农药英语学习助手</h1>
+    <h1>🌿 GB4839 农药英语学习助手</h1>
 
-<p>点击英文即可朗读，帮助记忆农药名称</p>
+    <p>
+        农药中文通用名称 · 英文名称 · 间隔复习
+    </p>
 
 </header>
 
 
-<div class="search-area">
+<main>
 
-<input
-type="text"
-id="search"
-placeholder="输入英文或中文搜索..."
->
+    <!-- ===============================
+         搜索
+    ================================ -->
 
-</div>
+    <section class="search-area">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="输入英文或中文搜索..."
+        >
+
+    </section>
 
 
-<div id="alphabet"></div>
+    <!-- ===============================
+         数据统计
+    ================================ -->
+
+    <section class="stats-bar">
+
+        <span>
+            总词数：
+            <strong id="totalCount">0</strong>
+        </span>
+
+        <span>
+            当前结果：
+            <strong id="resultCount">0</strong>
+        </span>
+
+        <span>
+            今日待复习：
+            <strong id="reviewCount">0</strong>
+        </span>
+
+        <span>
+            收藏：
+            <strong id="favoriteCount">0</strong>
+        </span>
+
+        <span>
+            不会：
+            <strong id="difficultCount">0</strong>
+        </span>
+
+        <span>
+            已跳过：
+            <strong id="skippedCount">0</strong>
+        </span>
+
+    </section>
 
 
-<div id="wordList"></div>
+    <!-- ===============================
+         主功能按钮
+    ================================ -->
 
+    <section class="main-controls">
+
+        <button
+            id="allBtn"
+            class="control-btn active"
+        >
+            📚 全部
+        </button>
+
+
+        <button
+            id="studyBtn"
+            class="control-btn"
+        >
+            🧠 背诵模式
+        </button>
+
+
+        <button
+            id="reviewBtn"
+            class="control-btn"
+        >
+            🔁 今日复习
+        </button>
+
+
+        <button
+            id="randomBtn"
+            class="control-btn"
+        >
+            🎲 随机抽词
+        </button>
+
+
+        <button
+            id="favoriteBtn"
+            class="control-btn"
+        >
+            ⭐ 我的收藏
+        </button>
+
+
+        <button
+            id="difficultBtn"
+            class="control-btn"
+        >
+            ⚠ 不会的词
+        </button>
+
+
+        <button
+            id="skippedBtn"
+            class="control-btn"
+        >
+            ⏭ 已跳过
+        </button>
+
+    </section>
+
+
+    <!-- ===============================
+         A-Z
+    ================================ -->
+
+    <section id="alphabet"></section>
+
+
+    <!-- ===============================
+         当前模式提示
+    ================================ -->
+
+    <section
+        id="modeMessage"
+        class="mode-message"
+    >
+        当前：全部词汇
+    </section>
+
+
+    <!-- ===============================
+         单词
+    ================================ -->
+
+    <section id="wordList"></section>
+
+
+    <!-- ===============================
+         分页
+    ================================ -->
+
+    <section class="pagination">
+
+        <button id="prevBtn">
+            ← 上一页
+        </button>
+
+
+        <span id="pageInfo">
+            第 1 / 1 页
+        </span>
+
+
+        <button id="nextBtn">
+            下一页 →
+        </button>
+
+    </section>
+
+</main>
 
 
 <script src="script.js"></script>

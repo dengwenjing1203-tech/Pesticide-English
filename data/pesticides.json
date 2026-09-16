@@ -1,0 +1,7824 @@
+{
+  "title": "GB 4839—2025 农药中文通用名称学习词库",
+  "source": "GB4839-2025 农药相关国标.pdf",
+  "version": "1.1",
+  "notes": [
+    "V1.1：修正PDF表格抽取造成的英文名称错列、脚注字母混入和复合条目丢失。",
+    "表1仍按GB4839—2025的891个编号保留；表2微生物类按菌株/变体作为独立学习条目保留。",
+    "表1第165项“低聚糖素”和第376项“几丁寡糖素”的英文名称栏在标准正文中为空，本词库不自行补写。"
+  ],
+  "counts": {
+    "table1_numbered_entries": 891,
+    "table2_numbered_entries": 46,
+    "table2_learning_entries_including_strains": 75,
+    "total_learning_entries": 966,
+    "entries_without_english_or_latin": 2
+  },
+  "pesticides": [
+    {
+      "id": 1,
+      "chinese": "1-甲基环丙烯",
+      "english": "1-methylcyclo-propene",
+      "cas": "3100-04-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 2,
+      "chinese": "2,4,5-涕",
+      "english": "2,4,5-T",
+      "cas": "93-76-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 3,
+      "chinese": "2,4,5-涕丙酸",
+      "english": "fenoprop",
+      "cas": "93-72-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 4,
+      "chinese": "2,4,5-涕丁酸",
+      "english": "2,4,5-TB",
+      "cas": "93-80-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 5,
+      "chinese": "2,4-滴",
+      "english": "2,4-D",
+      "cas": "94-75-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 6,
+      "chinese": "2,4-滴丙酸",
+      "english": "dichlorprop",
+      "cas": "120-36-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 7,
+      "chinese": "精2,4-滴丙酸",
+      "english": "dichlorprop-P",
+      "cas": "15165-67-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 8,
+      "chinese": "2,4-滴丁酸",
+      "english": "2,4-DB",
+      "cas": "94-82-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 9,
+      "chinese": "2,4-滴丁酯",
+      "english": "2,4-D-butyl",
+      "cas": "94-80-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 10,
+      "chinese": "2,4-滴异辛酯",
+      "english": "2,4-D-etexyl",
+      "cas": "1928-43-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 11,
+      "chinese": "2,4-二硝基苯酚钠",
+      "english": "sodium 2,4-di-nitrophenolateg",
+      "cas": "1011-73-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 12,
+      "chinese": "2甲4氯",
+      "english": "MCPA",
+      "cas": "94-74-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 13,
+      "chinese": "2甲4氯丙酸",
+      "english": "mecoprop",
+      "cas": "93-65-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 14,
+      "chinese": "精2甲4氯丙酸",
+      "english": "mecoprop-P",
+      "cas": "16484-77-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 15,
+      "chinese": "2甲4氯丁酸",
+      "english": "MCPB",
+      "cas": "94-81-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 16,
+      "chinese": "2甲4氯丁酸乙酯",
+      "english": "MCPB-ethyl",
+      "cas": "10443-70-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 17,
+      "chinese": "2甲4氯乙硫酯",
+      "english": "MCPA-thioeth-yl",
+      "cas": "25319-90-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 18,
+      "chinese": "2甲4氯异辛酯",
+      "english": "MCPA-isoctyl",
+      "cas": "29450-45-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 19,
+      "chinese": "4-氧代-反-2-己烯醛",
+      "english": "(2E)-4-oxo-2-hexenal",
+      "cas": "2492-43-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 20,
+      "chinese": "d-柠檬烯",
+      "english": "d-limonene",
+      "cas": "5989-27-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 21,
+      "chinese": "α-氯代醇",
+      "english": "α-chlorohydrin",
+      "cas": "96-24-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 22,
+      "chinese": "β-羽扇豆球蛋白多肽",
+      "english": "BLAD",
+      "cas": "1219521-95-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 23,
+      "chinese": "阿维菌素",
+      "english": "abamectin",
+      "cas": "71751-41-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "矮壮素",
+      "english": "chlormequat chloride",
+      "cas": "999-81-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 25,
+      "chinese": "艾氏剂",
+      "english": "aldrin",
+      "cas": "309-00-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 26,
+      "chinese": "桉油精",
+      "english": "1,8-cineol",
+      "cas": "470-82-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 27,
+      "chinese": "氨氟乐灵",
+      "english": "prodiamine",
+      "cas": "29091-21-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 28,
+      "chinese": "氨磺乐灵",
+      "english": "oryzalin",
+      "cas": "19044-88-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 29,
+      "chinese": "氨基寡糖素",
+      "english": "oligosaccharins",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 30,
+      "chinese": "氨氯吡啶酸",
+      "english": "picloram",
+      "cas": "1918-02-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 31,
+      "chinese": "氨酰丙酸盐酸盐",
+      "english": "aminolevulinic acid hydrochlo-rideg",
+      "cas": "5451-09-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 32,
+      "chinese": "氨唑草酮",
+      "english": "amicarbazone",
+      "cas": "129909-90-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 33,
+      "chinese": "胺苯吡菌酮",
+      "english": "fenpyrazamine",
+      "cas": "473798-59-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 34,
+      "chinese": "胺苯磺隆",
+      "english": "ethametsulfuron -methyl",
+      "cas": "97780-06-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 35,
+      "chinese": "胺菊酯",
+      "english": "tetramethrin",
+      "cas": "7696-12-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 36,
+      "chinese": "右旋胺菊酯",
+      "english": "d-tetramethrin",
+      "cas": "51348-90-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 37,
+      "chinese": "右旋反式胺菊酯",
+      "english": "d-trans-tetra-methrinc",
+      "cas": "1166-46-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 38,
+      "chinese": "胺鲜酯",
+      "english": "diethyl aminoethylhex-anoateg",
+      "cas": "10369-83-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 39,
+      "chinese": "八角茴香油",
+      "english": "aniseoilgb",
+      "cas": "8007-70-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 40,
+      "chinese": "巴毒磷",
+      "english": "crotoxyphos",
+      "cas": "7700-17-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 41,
+      "chinese": "白藜芦醇",
+      "english": "resveratrol",
+      "cas": "501-36-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 42,
+      "chinese": "百部碱",
+      "english": "tuberoste-monineg",
+      "cas": "6879-01-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 43,
+      "chinese": "百草枯",
+      "english": "paraquat",
+      "cas": "4685-14-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 44,
+      "chinese": "百草枯二氯盐",
+      "english": "paraquatdichlo-ride",
+      "cas": "1910-42-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 45,
+      "chinese": "百菌清",
+      "english": "chlorothalonil",
+      "cas": "1897-45-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 46,
+      "chinese": "斑蝥素",
+      "english": "canthacur",
+      "cas": "56-25-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 47,
+      "chinese": "拌种灵",
+      "english": "amicarthiazol",
+      "cas": "21452-14-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 48,
+      "chinese": "保棉磷",
+      "english": "azinphos-methyl",
+      "cas": "86-50-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 49,
+      "chinese": "倍硫磷",
+      "english": "fenthion",
+      "cas": "55-38-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 50,
+      "chinese": "苯丙烯菌酮",
+      "english": "corylifolinin",
+      "cas": "20784-50-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 51,
+      "chinese": "苯并烯氟菌唑",
+      "english": "benzovindif lupyr",
+      "cas": "1072957-71-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 52,
+      "chinese": "苯草醚",
+      "english": "aclonifen",
+      "cas": "74070-46-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 53,
+      "chinese": "苯哒嗪丙酯",
+      "english": "fenridazonpropyl",
+      "cas": "78778-15-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 54,
+      "chinese": "苯哒嗪酸",
+      "english": "clofencet",
+      "cas": "129025-54-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 55,
+      "chinese": "苯丁锡",
+      "english": "fenbutatinoxide",
+      "cas": "13356-08-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 56,
+      "chinese": "苯氟磺胺",
+      "english": "dichlofluanid",
+      "cas": "1085-98-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 57,
+      "chinese": "苯磺隆",
+      "english": "tribenuron-methyl",
+      "cas": "101200-48-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 58,
+      "chinese": "苯菌灵",
+      "english": "benomyl",
+      "cas": "17804-35-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 59,
+      "chinese": "苯菌酮",
+      "english": "metrafenone",
+      "cas": "220899-03-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 60,
+      "chinese": "苯硫威",
+      "english": "fenothiocarb",
+      "cas": "62850-32-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 61,
+      "chinese": "苯螨醚",
+      "english": "phenproxide",
+      "cas": "49828-75-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 62,
+      "chinese": "苯螨特",
+      "english": "benzoximate",
+      "cas": "29104-30-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 63,
+      "chinese": "苯醚甲环唑",
+      "english": "difenoconazole",
+      "cas": "119446-68-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 64,
+      "chinese": "苯醚菊酯",
+      "english": "phenothrin",
+      "cas": "26002-80-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 65,
+      "chinese": "右旋苯醚菊酯",
+      "english": "d-phenothrin",
+      "cas": "188023-86-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 66,
+      "chinese": "富右旋反式苯醚菊酯",
+      "english": "rich-d-t-pheno-thrin",
+      "cas": "26046-85-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 67,
+      "chinese": "苯醚菌酯",
+      "english": "benmijunzhi",
+      "cas": "852369-40-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 68,
+      "chinese": "苯醚氰菊酯",
+      "english": "cyphenothrin",
+      "cas": "39515-40-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 69,
+      "chinese": "右旋苯醚氰菊酯",
+      "english": "d-cyphenothrin",
+      "cas": "39515-40-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 70,
+      "chinese": "精右旋苯醚氰菊酯",
+      "english": "d-d-t-cypheno-thrin",
+      "cas": "64312-65-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 71,
+      "chinese": "富右旋反式苯醚氰菊酯",
+      "english": "rich-d-t-cyphe-nothrin",
+      "cas": "39515-40-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 72,
+      "chinese": "苯嘧磺草胺",
+      "english": "saflufenacil",
+      "cas": "372137-35-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 73,
+      "chinese": "苯嗪草酮",
+      "english": "metamitron",
+      "cas": "41394-05-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 74,
+      "chinese": "苯噻酰草胺",
+      "english": "mefenacet",
+      "cas": "73250-68-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 75,
+      "chinese": "苯霜灵",
+      "english": "benalaxyl",
+      "cas": "71626-11-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 76,
+      "chinese": "精苯霜灵",
+      "english": "benalaxyl-M",
+      "cas": "98243-83-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 77,
+      "chinese": "苯肽胺酸",
+      "english": "phthalanilicacid",
+      "cas": "4727-29-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 78,
+      "chinese": "苯酰菌胺",
+      "english": "zoxamide",
+      "cas": "156052-68-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 79,
+      "chinese": "苯线磷",
+      "english": "fenamiphos",
+      "cas": "22224-92-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 80,
+      "chinese": "苯锈啶",
+      "english": "fenpropidin",
+      "cas": "67306-00-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 81,
+      "chinese": "苯氧菌胺",
+      "english": "metominostrobin",
+      "cas": "133408-50-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 82,
+      "chinese": "苯氧威",
+      "english": "fenoxycarb",
+      "cas": "72490-01-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 83,
+      "chinese": "苯唑草酮",
+      "english": "topramezone",
+      "cas": "210631-68-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 84,
+      "chinese": "苯唑氟草酮",
+      "english": "fenpyrazone",
+      "cas": "1992017-55-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 85,
+      "chinese": "吡丙醚",
+      "english": "pyriproxyfen",
+      "cas": "95737-68-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 86,
+      "chinese": "吡草醚",
+      "english": "pyraflufen-ethyl",
+      "cas": "129630-19-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 87,
+      "chinese": "吡虫啉",
+      "english": "imidacloprid",
+      "cas": "138261-41-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 88,
+      "chinese": "吡啶醇",
+      "english": "pyripropanol",
+      "cas": "2859-68-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 89,
+      "chinese": "吡氟禾草灵",
+      "english": "fluazifop-butyl",
+      "cas": "69806-50-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 90,
+      "chinese": "精吡氟禾草灵",
+      "english": "fluazifop-P-bu-tyl",
+      "cas": "79241-46-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 91,
+      "chinese": "吡氟酰草胺",
+      "english": "diflufenican",
+      "cas": "83164-33-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 92,
+      "chinese": "吡嘧磺隆",
+      "english": "pyrazosulfuron-ethyl",
+      "cas": "93697-74-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 93,
+      "chinese": "吡喃草酮",
+      "english": "tepraloxydim",
+      "cas": "149979-41-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 94,
+      "chinese": "吡噻菌胺",
+      "english": "penthiopyrad",
+      "cas": "183675-82-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 95,
+      "chinese": "吡蚜酮",
+      "english": "pymetrozine",
+      "cas": "123312-89-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 96,
+      "chinese": "吡唑草胺",
+      "english": "metazachlor",
+      "cas": "67129-08-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 97,
+      "chinese": "吡唑喹草酯",
+      "english": "pyraquinate",
+      "cas": "2378093-62-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 98,
+      "chinese": "吡唑醚菌酯",
+      "english": "pyraclostrobin",
+      "cas": "175013-18-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 99,
+      "chinese": "吡唑萘菌胺",
+      "english": "isopyrazam",
+      "cas": "881685-58-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 100,
+      "chinese": "蓖麻油酸",
+      "english": "ricinoleicacid",
+      "cas": "141-22-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 101,
+      "chinese": "避蚊胺",
+      "english": "diethyltolua-mide",
+      "cas": "134-62-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 102,
+      "chinese": "避蚊酯",
+      "english": "dimethyl phthalate",
+      "cas": "131-11-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 103,
+      "chinese": "苄氨基嘌呤",
+      "english": "benzyladenine",
+      "cas": "1214-39-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 104,
+      "chinese": "苄草丹",
+      "english": "prosulfocarb",
+      "cas": "52888-80-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 105,
+      "chinese": "苄草隆",
+      "english": "cumyluron",
+      "cas": "99485-76-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 106,
+      "chinese": "苄呋菊酯",
+      "english": "resmethrin",
+      "cas": "10453-86-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 107,
+      "chinese": "右旋苄呋菊酯",
+      "english": "cismethrin",
+      "cas": "35764-59-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 108,
+      "chinese": "苄嘧磺隆",
+      "english": "bensulfuron-methyl",
+      "cas": "83055-99-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 109,
+      "chinese": "丙草胺",
+      "english": "pretilachlor",
+      "cas": "51218-49-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 110,
+      "chinese": "丙环唑",
+      "english": "propiconazole",
+      "cas": "60207-90-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 111,
+      "chinese": "丙硫菌唑",
+      "english": "prothioconazole",
+      "cas": "178928-70-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 112,
+      "chinese": "丙硫克百威",
+      "english": "benfuracarb",
+      "cas": "82560-54-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 113,
+      "chinese": "丙硫磷",
+      "english": "prothiofos",
+      "cas": "34643-46-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 114,
+      "chinese": "丙硫唑",
+      "english": "albendazole",
+      "cas": "54965-21-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 115,
+      "chinese": "丙嗪嘧磺隆",
+      "english": "propyrisulfuron",
+      "cas": "570415-88-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 116,
+      "chinese": "丙炔草酮",
+      "english": "oxadiargyl",
+      "cas": "39807-15-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 117,
+      "chinese": "丙炔氟草胺",
+      "english": "flumioxazin",
+      "cas": "103361-09-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 118,
+      "chinese": "丙森锌",
+      "english": "propineb",
+      "cas": "12071-83-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 119,
+      "chinese": "丙烷脒",
+      "english": "propamidine",
+      "cas": "104-32-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 120,
+      "chinese": "丙烯酸",
+      "english": "acrylic acid",
+      "cas": "79-10-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 121,
+      "chinese": "丙溴磷",
+      "english": "profenofos",
+      "cas": "41198-08-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 122,
+      "chinese": "丙酯草醚",
+      "english": "pyribambenz-propyl",
+      "cas": "420138-40-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 123,
+      "chinese": "丙酯杀螨醇",
+      "english": "chloropropylate",
+      "cas": "5836-10-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 124,
+      "chinese": "波尔多液",
+      "english": "bordeaux mix-ture",
+      "cas": "8011-63-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 125,
+      "chinese": "补骨内酯",
+      "english": "psoralen",
+      "cas": "66-97-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 126,
+      "chinese": "残杀威",
+      "english": "propoxur",
+      "cas": "114-26-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 127,
+      "chinese": "草铵膦酸",
+      "english": "glufosinate",
+      "cas": "51276-47-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 128,
+      "chinese": "精草铵膦",
+      "english": "glufosinate-P",
+      "cas": "35597-44-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 129,
+      "chinese": "草除灵",
+      "english": "benazolin-ethyl",
+      "cas": "25059-80-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 130,
+      "chinese": "草甘膦",
+      "english": "glyphosate",
+      "cas": "1071-83-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 131,
+      "chinese": "草枯醚",
+      "english": "chlornitrofen",
+      "cas": "1836-77-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 132,
+      "chinese": "草芽畏",
+      "english": "2,3,6-TBA",
+      "cas": "50-31-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 133,
+      "chinese": "茶皂素",
+      "english": "teasaponins",
+      "cas": "8047-15-2、11006-75-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 134,
+      "chinese": "超敏蛋白",
+      "english": "harpin",
+      "cas": "151438-54-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 135,
+      "chinese": "赤霉酸(赤霉酸A3)",
+      "english": "gibberellic acid",
+      "cas": "gibberellicacid",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 136,
+      "chinese": "赤霉酸A4+A7",
+      "english": "gibberellic acid (GA4) + gibberellic acid (GA7)",
+      "cas": "gibberellicacid(GA4)f",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 137,
+      "chinese": "虫螨腈",
+      "english": "chlorfenapyr",
+      "cas": "chlorfenapyr",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 138,
+      "chinese": "虫酰肼",
+      "english": "tebufenozide",
+      "cas": "tebufenozide",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 139,
+      "chinese": "除草定",
+      "english": "bromacil",
+      "cas": "bromacil",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 140,
+      "chinese": "除草醚",
+      "english": "nitrofen",
+      "cas": "nitrofen",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 141,
+      "chinese": "除虫菊素",
+      "english": "pyrethrin I + pyrethrin II + cinerin I + cinerin II + jasmolin I + jasmolin II",
+      "cas": "pyrethrinⅠ",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 142,
+      "chinese": "除虫脲",
+      "english": "diflubenzuron",
+      "cas": "35367-38-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 143,
+      "chinese": "春雷霉素",
+      "english": "kasugamycin",
+      "cas": "6980-18-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 144,
+      "chinese": "哒草特",
+      "english": "pyridate",
+      "cas": "55512-33-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 145,
+      "chinese": "哒螨灵",
+      "english": "pyridaben",
+      "cas": "96489-71-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 146,
+      "chinese": "哒嗪硫磷",
+      "english": "pyridaphenthio-nd",
+      "cas": "119-12-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 147,
+      "chinese": "大黄素甲醚",
+      "english": "parietin",
+      "cas": "521-61-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 148,
+      "chinese": "大蒜素",
+      "english": "allicin",
+      "cas": "539-86-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 149,
+      "chinese": "代森铵",
+      "english": "amobam",
+      "cas": "3566-10-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 150,
+      "chinese": "代森联",
+      "english": "metiram",
+      "cas": "9006-42-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 151,
+      "chinese": "代森锰",
+      "english": "maneb",
+      "cas": "12427-38-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 152,
+      "chinese": "代森锰锌",
+      "english": "mancozeb",
+      "cas": "8018-01-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 153,
+      "chinese": "代森锌",
+      "english": "zineb",
+      "cas": "12122-67-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 154,
+      "chinese": "单甲脒",
+      "english": "semiamitraz",
+      "cas": "33089-74-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 155,
+      "chinese": "单嘧磺隆",
+      "english": "monosulfuron",
+      "cas": "155860-63-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 156,
+      "chinese": "单嘧磺酯",
+      "english": "monosulfuron-ester",
+      "cas": "175076-90-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 157,
+      "chinese": "单氰胺",
+      "english": "cyanamide",
+      "cas": "420-04-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 158,
+      "chinese": "胆钙化醇",
+      "english": "cholecalciferol",
+      "cas": "67-97-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 159,
+      "chinese": "稻丰散",
+      "english": "phenthoate",
+      "cas": "2597-03-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 160,
+      "chinese": "稻瘟净",
+      "english": "EBP",
+      "cas": "13286-32-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 161,
+      "chinese": "稻瘟灵",
+      "english": "isoprothiolane",
+      "cas": "50512-35-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 162,
+      "chinese": "稻瘟酰胺",
+      "english": "fenoxanil",
+      "cas": "115852-48-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 163,
+      "chinese": "地虫硫磷",
+      "english": "fonofos",
+      "cas": "944-22-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 164,
+      "chinese": "地芬诺酯",
+      "english": "diphenoxylate",
+      "cas": "915-30-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 165,
+      "chinese": "低聚糖素",
+      "english": "",
+      "cas": "2128271-67-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药",
+      "english_note": "GB4839—2025表1未列英文名称"
+    },
+    {
+      "id": 166,
+      "chinese": "滴滴涕",
+      "english": "DDT",
+      "cas": "50-29-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 167,
+      "chinese": "敌枯双",
+      "english": "dikushuang",
+      "cas": "26907-37-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 168,
+      "chinese": "狄氏剂",
+      "english": "dieldrin",
+      "cas": "60-57-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 169,
+      "chinese": "敌百虫",
+      "english": "trichlorfon",
+      "cas": "52-68-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 170,
+      "chinese": "敌稗",
+      "english": "propanil",
+      "cas": "709-98-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 171,
+      "chinese": "敌草胺",
+      "english": "napropamide",
+      "cas": "15299-99-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 172,
+      "chinese": "敌草腈",
+      "english": "dichlobenil",
+      "cas": "1194-65-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 173,
+      "chinese": "敌草快",
+      "english": "diquat dibro-mide",
+      "cas": "85-00-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 174,
+      "chinese": "敌草快二氯盐",
+      "english": "diquat dichlo-ride",
+      "cas": "4032-26-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 175,
+      "chinese": "敌草隆",
+      "english": "diuron",
+      "cas": "330-54-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 176,
+      "chinese": "敌敌畏",
+      "english": "dichlorvos",
+      "cas": "62-73-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 177,
+      "chinese": "敌磺钠",
+      "english": "fenaminosulf",
+      "cas": "140-56-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 178,
+      "chinese": "敌菌灵",
+      "english": "anilazine",
+      "cas": "101-05-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 179,
+      "chinese": "敌鼠",
+      "english": "diphacinone",
+      "cas": "82-66-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 180,
+      "chinese": "敌瘟磷",
+      "english": "edifenphos",
+      "cas": "17109-49-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 181,
+      "chinese": "丁苯草酮",
+      "english": "butroxydim",
+      "cas": "138164-12-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 182,
+      "chinese": "丁苯吗啉",
+      "english": "fenpropimorph",
+      "cas": "67564-91-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 183,
+      "chinese": "丁吡吗啉",
+      "english": "pyrimorph",
+      "cas": "868390-90-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 184,
+      "chinese": "丁草胺",
+      "english": "butachlor",
+      "cas": "23184-66-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 185,
+      "chinese": "丁虫腈",
+      "english": "flufiprole",
+      "cas": "704886-18-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 186,
+      "chinese": "丁氟螨酯",
+      "english": "cyflumetofen",
+      "cas": "400882-07-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 187,
+      "chinese": "丁硫克百威",
+      "english": "carbosulfan",
+      "cas": "55285-14-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 188,
+      "chinese": "丁醚脲",
+      "english": "diafenthiuron",
+      "cas": "80060-09-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 189,
+      "chinese": "丁噻隆",
+      "english": "tebuthiuron",
+      "cas": "34014-18-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 190,
+      "chinese": "丁酸-反-2-己烯酯",
+      "english": "trans-2-Hexenyl butyrateg",
+      "cas": "53398-83-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 191,
+      "chinese": "丁酰肼",
+      "english": "daminozide",
+      "cas": "1596-84-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 192,
+      "chinese": "丁香菌酯",
+      "english": "coumoxystrobin",
+      "cas": "850881-70-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 193,
+      "chinese": "丁子香酚",
+      "english": "eugenol",
+      "cas": "97-53-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 194,
+      "chinese": "啶虫脒",
+      "english": "acetamiprid",
+      "cas": "135410-20-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 195,
+      "chinese": "啶磺草胺",
+      "english": "pyroxsulam",
+      "cas": "422556-08-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 196,
+      "chinese": "啶菌唑",
+      "english": "pyrisoxazole",
+      "cas": "847749-37-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 197,
+      "chinese": "啶嘧磺隆",
+      "english": "flazasulfuron",
+      "cas": "104040-78-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 198,
+      "chinese": "啶酰菌胺",
+      "english": "boscalid",
+      "cas": "188425-85-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 199,
+      "chinese": "啶氧菌酯",
+      "english": "picoxystrobin",
+      "cas": "117428-22-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 200,
+      "chinese": "东莨菪",
+      "english": "(-)-scopolamine",
+      "cas": "51-34-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 201,
+      "chinese": "毒草胺",
+      "english": "propachlor",
+      "cas": "1918-16-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 202,
+      "chinese": "毒虫畏",
+      "english": "chlorfenvinphos",
+      "cas": "470-90-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 203,
+      "chinese": "毒氟磷",
+      "english": "dufulin",
+      "cas": "882182-49-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 204,
+      "chinese": "毒菌酚",
+      "english": "hexachloro-phene",
+      "cas": "70-30-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 205,
+      "chinese": "毒杀芬",
+      "english": "camphechlor",
+      "cas": "8001-35-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 206,
+      "chinese": "毒鼠硅",
+      "english": "silatrane",
+      "cas": "29025-67-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 207,
+      "chinese": "毒死蜱",
+      "english": "chlorpyrifos",
+      "cas": "2921-88-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 208,
+      "chinese": "对二氯苯",
+      "english": "p-dichlorobenzene",
+      "cas": "106-46-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 209,
+      "chinese": "对硫磷",
+      "english": "parathion",
+      "cas": "56-38-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 210,
+      "chinese": "对氯苯氧乙酸钾",
+      "english": "4-CPA-potassi-um",
+      "cas": "67433-96-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 211,
+      "chinese": "对硝基苯酚铵",
+      "english": "ammonium para-nitrophenolate",
+      "cas": "20722-39-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 212,
+      "chinese": "多氟脲",
+      "english": "noviflumuron",
+      "cas": "121451-02-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 213,
+      "chinese": "多果定",
+      "english": "dodine",
+      "cas": "2439-10-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 214,
+      "chinese": "多菌灵",
+      "english": "carbendazim",
+      "cas": "10605-21-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 215,
+      "chinese": "多抗霉素",
+      "english": "polyoxins",
+      "cas": "polyoxinsd",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 216,
+      "chinese": "多杀霉素",
+      "english": "spinosad A + spinosad D",
+      "cas": "spinosadA",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 217,
+      "chinese": "多效唑",
+      "english": "paclobutrazol",
+      "cas": "76738-62-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 218,
+      "chinese": "莪术醇",
+      "english": "curcumenol",
+      "cas": "19431-84-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 219,
+      "chinese": "草酸",
+      "english": "propaquizafop",
+      "cas": "111479-05-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 220,
+      "chinese": "草酮",
+      "english": "oxadiazon",
+      "cas": "19666-30-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 221,
+      "chinese": "虫酮",
+      "english": "metoxadiazone",
+      "cas": "60589-06-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 222,
+      "chinese": "虫威",
+      "english": "bendiocarb",
+      "cas": "22781-23-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 223,
+      "chinese": "霉灵",
+      "english": "hymexazol",
+      "cas": "10004-44-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 224,
+      "chinese": "嗪草酮",
+      "english": "oxaziclomefone",
+      "cas": "153197-14-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 225,
+      "chinese": "霜灵",
+      "english": "oxadixyl",
+      "cas": "77732-09-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 226,
+      "chinese": "唑禾草灵",
+      "english": "fenoxapropethyl",
+      "cas": "66441-23-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 227,
+      "chinese": "精唑禾草灵",
+      "english": "fenoxaprop P-ethyl",
+      "cas": "71283-80-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 228,
+      "chinese": "唑菌酮",
+      "english": "famoxadone",
+      "cas": "131807-57-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 229,
+      "chinese": "唑酰草胺",
+      "english": "metamifop",
+      "cas": "256412-89-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 230,
+      "chinese": "儿茶素",
+      "english": "(±)-catechol",
+      "cas": "7295-85-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 231,
+      "chinese": "二苯胺",
+      "english": "diphenylamine",
+      "cas": "122-39-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 232,
+      "chinese": "二甲吩草胺",
+      "english": "dimethenamid",
+      "cas": "87674-68-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 233,
+      "chinese": "精二甲吩草胺",
+      "english": "dimethenamid-P",
+      "cas": "163515-14-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 234,
+      "chinese": "二甲基二硫醚",
+      "english": "dimethyl disul-fideb",
+      "cas": "624-92-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 235,
+      "chinese": "二甲戊灵",
+      "english": "pendimethalin",
+      "cas": "40487-42-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 236,
+      "chinese": "二硫氰基甲烷",
+      "english": "methylene bis(thiocyanate)",
+      "cas": "6317-18-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 237,
+      "chinese": "二氯吡啶酸",
+      "english": "clopyralid",
+      "cas": "1702-17-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 238,
+      "chinese": "二氯喹啉草酮",
+      "english": "quintrione",
+      "cas": "1350901-36-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 239,
+      "chinese": "二氯喹啉酸",
+      "english": "quinclorac",
+      "cas": "84087-01-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 240,
+      "chinese": "二氯异草酮",
+      "english": "bixlozone",
+      "cas": "81777-95-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 241,
+      "chinese": "二氯异氰尿酸钠",
+      "english": "SDIC",
+      "cas": "2893-78-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 242,
+      "chinese": "二嗪磷",
+      "english": "diazinon",
+      "cas": "333-41-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 243,
+      "chinese": "二氢卟吩铁",
+      "english": "ironchlorine6",
+      "cas": "15492-44-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 244,
+      "chinese": "二氰蒽醌",
+      "english": "dithianon",
+      "cas": "3347-22-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 245,
+      "chinese": "二溴磷",
+      "english": "naled",
+      "cas": "300-76-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 246,
+      "chinese": "二溴氯丙烷",
+      "english": "DBCP",
+      "cas": "96-12-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 247,
+      "chinese": "二溴乙烷",
+      "english": "ethylene dibro-mide",
+      "cas": "106-93-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 248,
+      "chinese": "反-7,顺-9-十二碳二烯乙酸酯",
+      "english": "[(7E,9Z)-Do-deca-7,9-dienyl] acetateb",
+      "cas": "54364-62-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 249,
+      "chinese": "反-8,反-10-十二碳二烯醇",
+      "english": "(8E,10E )-Do-deca-8,10-dien-1-olb",
+      "cas": "33956-49-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 250,
+      "chinese": "反-8-十二碳烯乙酸酯",
+      "english": "(E)-Dodec-8-en-1-yl acetate",
+      "cas": "38363-29-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 251,
+      "chinese": "反-9,顺-12-十四碳烯乙酸酯",
+      "english": "9E,12Z-Tetra-decadien-1-yl-acetateb",
+      "cas": "31654-77-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 252,
+      "chinese": "反-12-十四碳烯乙酸酯",
+      "english": "(E)-tetradec-12-enyl acetate",
+      "cas": "35153-21-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 253,
+      "chinese": "酚菌酮",
+      "english": "fenjuntong",
+      "cas": "2887-61-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 254,
+      "chinese": "粉唑醇",
+      "english": "flutriafol",
+      "cas": "76674-21-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 255,
+      "chinese": "砜吡草唑",
+      "english": "pyroxasulfone",
+      "cas": "447399-55-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 256,
+      "chinese": "砜嘧磺隆",
+      "english": "rimsulfuron",
+      "cas": "122931-48-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 257,
+      "chinese": "呋苯硫脲",
+      "english": "fuphenthiourea",
+      "cas": "1332625-45-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 258,
+      "chinese": "呋草酮",
+      "english": "flurtamone",
+      "cas": "96525-23-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 259,
+      "chinese": "呋虫胺",
+      "english": "dinotefuran",
+      "cas": "165252-70-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 260,
+      "chinese": "呋喃虫酰肼",
+      "english": "furan tebufeno-zidef",
+      "cas": "467427-80-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 261,
+      "chinese": "呋喃磺草酮",
+      "english": "tefuryltrione",
+      "cas": "473278-76-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 262,
+      "chinese": "呋线威",
+      "english": "furathiocarb",
+      "cas": "65907-30-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 263,
+      "chinese": "伏杀硫磷",
+      "english": "phosalone",
+      "cas": "2310-17-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 264,
+      "chinese": "氟胺磺隆",
+      "english": "triflusulfuron-methyl",
+      "cas": "126535-15-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 265,
+      "chinese": "氟胺氰菊酯",
+      "english": "tau-fluvalinate",
+      "cas": "102851-06-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 266,
+      "chinese": "氟苯虫酰胺",
+      "english": "flubendiamide",
+      "cas": "272451-65-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 267,
+      "chinese": "氟苯脲",
+      "english": "teflubenzuron",
+      "cas": "83121-18-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 268,
+      "chinese": "氟苯氧喹啉",
+      "english": "quinoxyfen",
+      "cas": "124495-18-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 269,
+      "chinese": "氟吡草酮",
+      "english": "bicyclopyrone",
+      "cas": "352010-68-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 270,
+      "chinese": "氟吡呋喃酮",
+      "english": "flupyradifurone",
+      "cas": "951659-40-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 271,
+      "chinese": "氟吡磺隆",
+      "english": "flucetosulfuron",
+      "cas": "412928-75-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 272,
+      "chinese": "氟吡甲禾灵",
+      "english": "haloxyfop-methyl",
+      "cas": "69806-40-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 273,
+      "chinese": "高效氟吡甲禾灵",
+      "english": "haloxyfop-P-methyl",
+      "cas": "72619-32-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 274,
+      "chinese": "氟吡菌胺",
+      "english": "fluopicolide",
+      "cas": "239110-15-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 275,
+      "chinese": "氟吡菌酰胺",
+      "english": "fluopyram",
+      "cas": "658066-35-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 276,
+      "chinese": "氟吡酰草胺",
+      "english": "picolinafen",
+      "cas": "137641-05-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 277,
+      "chinese": "氟丙菊酯",
+      "english": "acrinathrin",
+      "cas": "101007-06-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 278,
+      "chinese": "氟丙嘧草酯",
+      "english": "butafenacil",
+      "cas": "134605-64-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 279,
+      "chinese": "氟草啶",
+      "english": "flufenoximacil",
+      "cas": "2759011-88-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 280,
+      "chinese": "氟草净",
+      "english": "fucaojing",
+      "cas": "103427-73-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 281,
+      "chinese": "氟草隆",
+      "english": "fluometuron",
+      "cas": "2164-17-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 282,
+      "chinese": "氟虫胺",
+      "english": "sulfluramid",
+      "cas": "4151-50-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 283,
+      "chinese": "氟虫腈",
+      "english": "fipronil",
+      "cas": "120068-37-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 284,
+      "chinese": "氟虫脲",
+      "english": "flufenoxuron",
+      "cas": "101463-69-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 285,
+      "chinese": "氟除草醚",
+      "english": "fluoronitrofen",
+      "cas": "13738-63-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 286,
+      "chinese": "氟啶胺",
+      "english": "fluazinam",
+      "cas": "79622-59-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 287,
+      "chinese": "氟啶草酮",
+      "english": "fluridone",
+      "cas": "59756-60-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 288,
+      "chinese": "氟啶虫胺腈",
+      "english": "sulfoxaflor",
+      "cas": "946578-00-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 289,
+      "chinese": "氟啶虫酰胺",
+      "english": "flonicamid",
+      "cas": "158062-67-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 290,
+      "chinese": "氟啶脲",
+      "english": "chlorfluazuron",
+      "cas": "71422-67-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 291,
+      "chinese": "氟砜草胺",
+      "english": "flusulfinam",
+      "cas": "2428458-82-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 292,
+      "chinese": "氟咯草酮",
+      "english": "flurochloridone",
+      "cas": "61213-25-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 293,
+      "chinese": "氟硅菊酯",
+      "english": "silafluofen",
+      "cas": "105024-66-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 294,
+      "chinese": "氟硅酸钠",
+      "english": "sodium silicofluoride",
+      "cas": "16893-85-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 295,
+      "chinese": "氟硅唑",
+      "english": "flusilazole",
+      "cas": "85509-19-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 296,
+      "chinese": "氟环唑",
+      "english": "epoxiconazole",
+      "cas": "133855-98-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 297,
+      "chinese": "氟磺胺草醚",
+      "english": "fomesafen",
+      "cas": "72178-02-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 298,
+      "chinese": "氟磺隆",
+      "english": "prosulfuron",
+      "cas": "94125-34-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 299,
+      "chinese": "氟磺酰胺",
+      "english": "flursulamid",
+      "cas": "31506-34-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 300,
+      "chinese": "氟节胺",
+      "english": "flumetralin",
+      "cas": "62924-70-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 301,
+      "chinese": "氟菌唑",
+      "english": "triflumizole",
+      "cas": "68694-11-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 302,
+      "chinese": "氟乐灵",
+      "english": "trifluralin",
+      "cas": "1582-09-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 303,
+      "chinese": "氟铃脲",
+      "english": "hexaflumuron",
+      "cas": "86479-06-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 304,
+      "chinese": "氟硫草定",
+      "english": "dithiopyr",
+      "cas": "97886-45-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 305,
+      "chinese": "氟氯氨草酯",
+      "english": "fluchloraminopyr-tefuryl",
+      "cas": "2445983-82-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 306,
+      "chinese": "氟氯苯菊酯",
+      "english": "flumethrin",
+      "cas": "69770-45-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 307,
+      "chinese": "氟氯吡啶酯",
+      "english": "halauxifen-methyl",
+      "cas": "943831-98-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 308,
+      "chinese": "氟氯氰菊酯",
+      "english": "cyfluthrin",
+      "cas": "68359-37-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 309,
+      "chinese": "高效氟氯氰菊酯",
+      "english": "beta-cyfluthrin",
+      "cas": "1820573-27-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 310,
+      "chinese": "氟吗啉",
+      "english": "flumorph",
+      "cas": "211867-47-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 311,
+      "chinese": "氟醚菌酰胺",
+      "english": "fluopimomide",
+      "cas": "1309859-39-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 312,
+      "chinese": "氟嘧菌酯",
+      "english": "fluoxastrobin",
+      "cas": "361377-29-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 313,
+      "chinese": "氟氰戊菊酯",
+      "english": "flucythrinate",
+      "cas": "70124-77-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 314,
+      "chinese": "氟噻草胺",
+      "english": "flufenacet",
+      "cas": "142459-58-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 315,
+      "chinese": "氟噻唑吡乙酮",
+      "english": "oxathiapiprolin",
+      "cas": "1003318-67-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 316,
+      "chinese": "氟鼠灵",
+      "english": "flocoumafen",
+      "cas": "90035-08-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 317,
+      "chinese": "氟酮磺草胺",
+      "english": "triafamone",
+      "cas": "874195-61-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 318,
+      "chinese": "氟烯草酸",
+      "english": "flumiclorac",
+      "cas": "87547-04-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 319,
+      "chinese": "氟烯线砜",
+      "english": "fluensulfone",
+      "cas": "318290-98-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 320,
+      "chinese": "氟酰胺",
+      "english": "flutolanil",
+      "cas": "66332-96-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 321,
+      "chinese": "氟酰脲",
+      "english": "novaluron",
+      "cas": "116714-46-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 322,
+      "chinese": "氟乙酸钠",
+      "english": "sodium fluoro-acetate",
+      "cas": "62-74-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 323,
+      "chinese": "氟乙酰胺",
+      "english": "fluoroacetamide",
+      "cas": "640-19-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 324,
+      "chinese": "氟蚁腙",
+      "english": "hydramethylnon",
+      "cas": "67485-29-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 325,
+      "chinese": "氟茚唑菌胺",
+      "english": "fluindapyr",
+      "cas": "1383809-87-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 326,
+      "chinese": "氟唑环菌胺",
+      "english": "sedaxane",
+      "cas": "874967-67-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 327,
+      "chinese": "氟唑磺隆",
+      "english": "flucarbazone-so-dium",
+      "cas": "181274-17-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 328,
+      "chinese": "氟唑活化酯",
+      "english": "fuzuohuohuazhi",
+      "cas": "864237-81-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 329,
+      "chinese": "氟唑菌苯胺",
+      "english": "penflufen",
+      "cas": "494793-67-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 330,
+      "chinese": "氟唑菌酰胺",
+      "english": "fluxapyroxad",
+      "cas": "907204-31-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 331,
+      "chinese": "氟唑菌酰羟胺",
+      "english": "pydiflumetofen",
+      "cas": "1228284-64-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 332,
+      "chinese": "福美甲胂",
+      "english": "urbacided",
+      "cas": "2445-07-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 333,
+      "chinese": "福美胂",
+      "english": "asomate",
+      "cas": "3586-60-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 334,
+      "chinese": "福美双",
+      "english": "thiram",
+      "cas": "137-26-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 335,
+      "chinese": "福美锌",
+      "english": "ziram",
+      "cas": "137-30-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 336,
+      "chinese": "腐霉利",
+      "english": "procymidone",
+      "cas": "procymidone",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 337,
+      "chinese": "腐殖酸",
+      "english": "humic acid",
+      "cas": "humicacidf",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 338,
+      "chinese": "复硝酚钠",
+      "english": "sodium ortho-nitrophenolate + sodium para-nitrophenolate + sodium 5-nitroguaiacolate",
+      "cas": "sodiumortho-nitrophenolatef",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 339,
+      "chinese": "复硝酚钾",
+      "english": "potassium ortho-nitrophenolate + potassium para-nitrophenolate + potassium 2,4-dinitrophenolate",
+      "cas": "potassiumortho-nitrophenolatef",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 340,
+      "chinese": "咯菌腈",
+      "english": "fludioxonil",
+      "cas": "131341-86-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 341,
+      "chinese": "格螨酯",
+      "english": "genit",
+      "cas": "97-16-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 342,
+      "chinese": "庚烯磷",
+      "english": "heptenophos",
+      "cas": "23560-59-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 343,
+      "chinese": "谷维菌素",
+      "english": "decoyinine",
+      "cas": "2004-04-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 344,
+      "chinese": "冠菌素",
+      "english": "coronatine",
+      "cas": "62251-96-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 345,
+      "chinese": "硅丰环",
+      "english": "chloromethylsi-latraneb",
+      "cas": "42003-39-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 346,
+      "chinese": "硅噻菌胺",
+      "english": "silthiofam",
+      "cas": "175217-20-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 347,
+      "chinese": "硅藻土",
+      "english": "diatomaceous earthg",
+      "cas": "61790-53-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 348,
+      "chinese": "过氧乙酸",
+      "english": "peracetic acid",
+      "cas": "peraceticacidg",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 349,
+      "chinese": "禾草丹",
+      "english": "thiobencarb",
+      "cas": "thiobencarb",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 350,
+      "chinese": "禾草敌",
+      "english": "molinate",
+      "cas": "molinate",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 351,
+      "chinese": "禾草灵",
+      "english": "diclofop-methyl",
+      "cas": "diclofop-methyl",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 352,
+      "chinese": "琥胶肥酸铜",
+      "english": "huposuantong",
+      "cas": "huposuantongf",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 353,
+      "chinese": "环吡氟草酮",
+      "english": "cypyrafluone",
+      "cas": "cypyrafluone",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 354,
+      "chinese": "环丙氟虫胺",
+      "english": "cyproflanilide",
+      "cas": "2375110-88-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 355,
+      "chinese": "环丙嘧磺隆",
+      "english": "cyclosulfamuron",
+      "cas": "136849-15-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 356,
+      "chinese": "环丙唑醇",
+      "english": "cyproconazole",
+      "cas": "94361-06-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 357,
+      "chinese": "环虫酰肼",
+      "english": "chromafenozide",
+      "cas": "143807-66-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 358,
+      "chinese": "环氟菌胺",
+      "english": "cyflufenamid",
+      "cas": "180409-60-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 359,
+      "chinese": "环庚草醚",
+      "english": "cinmethylin",
+      "cas": "87818-31-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 360,
+      "chinese": "环磺酮",
+      "english": "tembotrione",
+      "cas": "335104-84-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 361,
+      "chinese": "环己基甲酸锌",
+      "english": "zinc cyclohexane-carboxylatef",
+      "cas": "89140-64-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 362,
+      "chinese": "环螨酯",
+      "english": "cycloprate",
+      "cas": "54460-46-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 363,
+      "chinese": "环嗪酮",
+      "english": "hexazinone",
+      "cas": "51235-04-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 364,
+      "chinese": "环戊草酮",
+      "english": "pentoxazone",
+      "cas": "110956-75-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 365,
+      "chinese": "环戊烯丙菊酯",
+      "english": "terallethrin",
+      "cas": "15589-31-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 366,
+      "chinese": "环酰菌胺",
+      "english": "fenhexamid",
+      "cas": "126833-17-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 367,
+      "chinese": "环氧虫啶",
+      "english": "cycloxaprid",
+      "cas": "1203791-41-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 368,
+      "chinese": "环氧虫啉",
+      "english": "epoxyloprinb",
+      "cas": "1185987-44-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 369,
+      "chinese": "环酯草醚",
+      "english": "pyriftalid",
+      "cas": "135186-78-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 370,
+      "chinese": "磺草灵",
+      "english": "asulam",
+      "cas": "3337-71-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 371,
+      "chinese": "磺草酮",
+      "english": "sulcotrione",
+      "cas": "99105-77-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 372,
+      "chinese": "磺酰草吡唑",
+      "english": "pyrasulfotole",
+      "cas": "365400-11-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 373,
+      "chinese": "混合氨基酸铜",
+      "english": "copperaminoac-idsf",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 374,
+      "chinese": "混合脂肪酸",
+      "english": "fatty acids",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 375,
+      "chinese": "混灭威",
+      "english": "dimethacarb",
+      "cas": "56307-77-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 376,
+      "chinese": "几丁寡糖素",
+      "english": "",
+      "cas": "148411-57-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药",
+      "english_note": "GB4839—2025表1未列英文名称"
+    },
+    {
+      "id": 377,
+      "chinese": "几丁聚糖",
+      "english": "chitosan",
+      "cas": "9012-76-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 378,
+      "chinese": "极细链格孢激活蛋白",
+      "english": "Protein Elicitor from A.tenuis-sima(PEAt1)b",
+      "cas": "1310394-19-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 379,
+      "chinese": "己唑醇",
+      "english": "hexaconazole",
+      "cas": "79983-71-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 380,
+      "chinese": "甲氨基阿维菌素",
+      "english": "emamectin",
+      "cas": "119791-41-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 381,
+      "chinese": "甲氨基阿维菌素苯甲酸盐",
+      "english": "emamectinben-zoate",
+      "cas": "155569-91-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 382,
+      "chinese": "甲胺磷",
+      "english": "methamidophos",
+      "cas": "10265-92-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 383,
+      "chinese": "甲拌磷",
+      "english": "phorate",
+      "cas": "298-02-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 384,
+      "chinese": "甲苯氟磺胺",
+      "english": "tolyfluanid",
+      "cas": "731-27-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 385,
+      "chinese": "甲草胺",
+      "english": "alachlor",
+      "cas": "15972-60-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 386,
+      "chinese": "甲呋酰胺",
+      "english": "fenfuram",
+      "cas": "24691-80-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 387,
+      "chinese": "甲磺草胺",
+      "english": "sulfentrazone",
+      "cas": "122836-35-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 388,
+      "chinese": "甲磺隆",
+      "english": "metsulfuron-methyl",
+      "cas": "74223-64-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 389,
+      "chinese": "甲基苯噻隆",
+      "english": "methabenzthia-zuron",
+      "cas": "18691-97-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 390,
+      "chinese": "甲基吡磷",
+      "english": "azamethiphos",
+      "cas": "35575-96-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 391,
+      "chinese": "甲基碘磺隆钠盐",
+      "english": "iodosulfuron-methyl-sodium",
+      "cas": "144550-36-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 392,
+      "chinese": "甲基毒死蜱",
+      "english": "chlorpyrifos -methyl",
+      "cas": "5598-13-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 393,
+      "chinese": "甲基对硫磷",
+      "english": "parathion-methyl",
+      "cas": "298-00-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 394,
+      "chinese": "甲基二磺隆",
+      "english": "mesosulfuron-methyl",
+      "cas": "208465-21-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 395,
+      "chinese": "甲基立枯磷",
+      "english": "tolclofos-methyl",
+      "cas": "57018-04-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 396,
+      "chinese": "甲基硫环磷",
+      "english": "phosfolan-methyl",
+      "cas": "5120-23-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 397,
+      "chinese": "甲基硫菌灵",
+      "english": "thiophanate-methyl",
+      "cas": "23564-05-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 398,
+      "chinese": "甲基嘧啶磷",
+      "english": "pirimiphos-methyl",
+      "cas": "29232-93-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 399,
+      "chinese": "甲基胂酸锌",
+      "english": "zine methanear-sonate",
+      "cas": "20324-26-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 400,
+      "chinese": "甲基辛硫磷",
+      "english": "phoxim-methyl",
+      "cas": "14816-16-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 401,
+      "chinese": "甲基异柳磷",
+      "english": "isofenphos-methyl",
+      "cas": "99675-03-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 402,
+      "chinese": "甲硫嘧磺隆",
+      "english": "methiopyrisul-furonf",
+      "cas": "441050-97-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 403,
+      "chinese": "甲硫威",
+      "english": "methiocarb",
+      "cas": "2032-65-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 404,
+      "chinese": "甲咪唑烟酸",
+      "english": "imazapic",
+      "cas": "104098-48-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 405,
+      "chinese": "甲醚菊酯",
+      "english": "methothrin",
+      "cas": "34388-29-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 406,
+      "chinese": "甲嘧磺隆",
+      "english": "sulfometuron -methyl",
+      "cas": "74222-97-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 407,
+      "chinese": "甲萘灵",
+      "english": "1,4-dimethyl-naphthaleneg",
+      "cas": "571-58-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 408,
+      "chinese": "甲萘威",
+      "english": "carbaryl",
+      "cas": "63-25-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 409,
+      "chinese": "甲哌鎓",
+      "english": "mepiquat chloride",
+      "cas": "24307-26-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 410,
+      "chinese": "甲羟鎓",
+      "english": "jiaqiangweng",
+      "cas": "39660-17-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 411,
+      "chinese": "甲氰菊酯",
+      "english": "fenpropathrin",
+      "cas": "39515-41-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 412,
+      "chinese": "S-甲氰菊酯",
+      "english": "S-fenpropath-rinf",
+      "cas": "67890-41-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 413,
+      "chinese": "甲噻诱胺",
+      "english": "methiadinil",
+      "cas": "908298-37-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 414,
+      "chinese": "甲霜灵",
+      "english": "metalaxyl",
+      "cas": "57837-19-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 415,
+      "chinese": "精甲霜灵",
+      "english": "metalaxyl-M",
+      "cas": "70630-17-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 416,
+      "chinese": "甲羧除草醚",
+      "english": "bifenox",
+      "cas": "42576-02-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 417,
+      "chinese": "甲酰氨基嘧磺隆",
+      "english": "foramsulfuron",
+      "cas": "173159-57-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 418,
+      "chinese": "甲氧苄氟菊酯",
+      "english": "metofluthrin",
+      "cas": "240494-70-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 419,
+      "chinese": "甲氧虫酰肼",
+      "english": "methoxyfeno-zide",
+      "cas": "161050-58-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 420,
+      "chinese": "甲氧滴滴涕",
+      "english": "methoxychlor",
+      "cas": "72-43-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 421,
+      "chinese": "甲氧咪草烟",
+      "english": "imazamox",
+      "cas": "114311-32-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 422,
+      "chinese": "碱式硫酸铜",
+      "english": "basiccopper sulfate",
+      "cas": "1344-73-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 423,
+      "chinese": "腈苯唑",
+      "english": "fenbuconazole",
+      "cas": "114369-43-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 424,
+      "chinese": "腈吡螨酯",
+      "english": "cyenopyrafen",
+      "cas": "560121-52-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 425,
+      "chinese": "腈菌唑",
+      "english": "myclobutanil",
+      "cas": "88671-89-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 426,
+      "chinese": "井冈霉素(井冈霉素A)",
+      "english": "jingangmycin Af",
+      "cas": "37248-47-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 427,
+      "chinese": "久效磷",
+      "english": "monocrotophos",
+      "cas": "6923-22-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 428,
+      "chinese": "久效威",
+      "english": "thiofanox",
+      "cas": "39196-18-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 429,
+      "chinese": "桔小实蝇引诱剂",
+      "english": "methyleugenol",
+      "cas": "93-15-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 430,
+      "chinese": "菊胺酯",
+      "english": "bachmedesh",
+      "cas": "172351-12-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 431,
+      "chinese": "菌核净",
+      "english": "dimetachlone",
+      "cas": "24096-53-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 432,
+      "chinese": "糠氨基嘌呤",
+      "english": "kinetin",
+      "cas": "525-79-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 433,
+      "chinese": "抗倒酯",
+      "english": "Trinexapac-eth-yl",
+      "cas": "95266-40-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 434,
+      "chinese": "抗坏血酸",
+      "english": "L-ascorbic acid",
+      "cas": "50-81-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 435,
+      "chinese": "抗蚜威",
+      "english": "pirimicarb",
+      "cas": "23103-98-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 436,
+      "chinese": "克百威",
+      "english": "carbofuran",
+      "cas": "1563-66-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 437,
+      "chinese": "克草胺",
+      "english": "ethachlor",
+      "cas": "51218-31-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 438,
+      "chinese": "克菌丹",
+      "english": "captan",
+      "cas": "133-06-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 439,
+      "chinese": "克菌壮",
+      "english": "kejunzhuang",
+      "cas": "1068-22-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 440,
+      "chinese": "苦参碱",
+      "english": "matrine",
+      "cas": "519-02-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 441,
+      "chinese": "苦皮藤素",
+      "english": "celangulin",
+      "cas": "116159-73-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 442,
+      "chinese": "矿物油",
+      "english": "petroleum oils",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 443,
+      "chinese": "喹草酸",
+      "english": "quinmerac",
+      "cas": "90717-03-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 444,
+      "chinese": "喹草酮",
+      "english": "benquitrione",
+      "cas": "1639426-14-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 445,
+      "chinese": "喹禾糠酯",
+      "english": "quizalofop-P-te-furyl",
+      "cas": "200509-41-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 446,
+      "chinese": "喹禾灵",
+      "english": "quizalofop-ethyl",
+      "cas": "76578-14-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 447,
+      "chinese": "精喹禾灵",
+      "english": "quizalofop-P-ethyl",
+      "cas": "100646-51-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 448,
+      "chinese": "喹啉铜",
+      "english": "oxine-copper",
+      "cas": "10380-28-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 449,
+      "chinese": "喹硫磷",
+      "english": "quinalphos",
+      "cas": "13593-03-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 450,
+      "chinese": "喹螨醚",
+      "english": "fenazaquin",
+      "cas": "120928-09-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 451,
+      "chinese": "狼毒素",
+      "english": "chamaejasmin",
+      "cas": "69618-96-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 452,
+      "chinese": "乐果",
+      "english": "dimethoate",
+      "cas": "60-51-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 453,
+      "chinese": "乐杀螨",
+      "english": "binapacryl",
+      "cas": "485-31-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 454,
+      "chinese": "雷公藤甲素",
+      "english": "triptolide",
+      "cas": "38748-32-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 455,
+      "chinese": "藜芦胺",
+      "english": "veratramineg",
+      "cas": "60-70-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 456,
+      "chinese": "利谷隆",
+      "english": "linuron",
+      "cas": "330-55-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 457,
+      "chinese": "联苯肼酯",
+      "english": "bifenazate",
+      "cas": "149877-41-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 458,
+      "chinese": "联苯菊酯",
+      "english": "bifenthrin",
+      "cas": "82657-04-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 459,
+      "chinese": "联苯三唑醇",
+      "english": "bitertanol",
+      "cas": "55179-31-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 460,
+      "chinese": "链霉素",
+      "english": "streptomycin",
+      "cas": "57-92-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 461,
+      "chinese": "邻苯基苯酚",
+      "english": "2-phenylphenol",
+      "cas": "90-43-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 462,
+      "chinese": "邻甲氧基酚",
+      "english": "2-methoxyphe-nolf",
+      "cas": "90-05-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 463,
+      "chinese": "邻烯丙基苯酚",
+      "english": "2-allylphenol",
+      "cas": "1745-81-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 464,
+      "chinese": "邻酰胺",
+      "english": "mebenil",
+      "cas": "7055-03-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 465,
+      "chinese": "邻硝基苯酚铵",
+      "english": "ammonium ortho-nitrophe-nolatef",
+      "cas": "20722-38-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 466,
+      "chinese": "林丹",
+      "english": "gamma-HCH",
+      "cas": "58-89-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 467,
+      "chinese": "磷胺",
+      "english": "phosphami-don",
+      "cas": "13171-21-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 468,
+      "chinese": "磷化钙",
+      "english": "calcium phosphide",
+      "cas": "1305-99-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 469,
+      "chinese": "磷化铝",
+      "english": "aluminium phosphide",
+      "cas": "20859-73-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 470,
+      "chinese": "磷化镁",
+      "english": "magnesium phosphide",
+      "cas": "12057-74-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 471,
+      "chinese": "磷化氢",
+      "english": "phosphine",
+      "cas": "7803-51-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 472,
+      "chinese": "磷化锌",
+      "english": "zincphosphide",
+      "cas": "1314-84-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 473,
+      "chinese": "硫虫酰胺",
+      "english": "tiorantranilipro-le",
+      "cas": "1442448-92-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 474,
+      "chinese": "硫丹",
+      "english": "endosulfan",
+      "cas": "115-29-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 475,
+      "chinese": "硫氟肟醚",
+      "english": "thiofluoximate",
+      "cas": "860028-12-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 476,
+      "chinese": "硫环磷",
+      "english": "phosfolan",
+      "cas": "947-02-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 477,
+      "chinese": "硫磺",
+      "english": "sulfur",
+      "cas": "7704-34-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 478,
+      "chinese": "硫双威",
+      "english": "thiodicarb",
+      "cas": "59669-26-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 479,
+      "chinese": "硫酸钡",
+      "english": "barium sulfate",
+      "cas": "7727-43-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 480,
+      "chinese": "硫酸链霉素",
+      "english": "streptomycin sesquisulfate",
+      "cas": "3810-74-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 481,
+      "chinese": "硫酸铜",
+      "english": "coppersulfate",
+      "cas": "7758-98-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 482,
+      "chinese": "硫酸铜钙",
+      "english": "copper calcium sulphate",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 483,
+      "chinese": "硫酸锌",
+      "english": "zincsulfatehep-tahydratef",
+      "cas": "7446-20-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 484,
+      "chinese": "硫酸血根碱",
+      "english": "sanguinarine sulfate",
+      "cas": "22331-93-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 485,
+      "chinese": "硫酰氟",
+      "english": "sulfurylfluoride",
+      "cas": "2699-79-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 486,
+      "chinese": "硫线磷",
+      "english": "cadusafos",
+      "cas": "95465-99-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 487,
+      "chinese": "六六六",
+      "english": "HCH",
+      "cas": "608-73-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 488,
+      "chinese": "螺虫乙酯",
+      "english": "spirotetramat",
+      "cas": "203313-25-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 489,
+      "chinese": "螺环菌胺",
+      "english": "spiroxamine",
+      "cas": "118134-30-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 490,
+      "chinese": "螺甲螨酯",
+      "english": "spiromesifen",
+      "cas": "283594-90-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 491,
+      "chinese": "螺螨双酯",
+      "english": "spirobudifen",
+      "cas": "1305319-70-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 492,
+      "chinese": "螺螨酯",
+      "english": "spirodiclofen",
+      "cas": "148477-71-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 493,
+      "chinese": "螺威",
+      "english": "luowei",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 494,
+      "chinese": "络氨铜",
+      "english": "cuaminosulfate",
+      "cas": "13874-09-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 495,
+      "chinese": "绿麦隆",
+      "english": "chlorotoluron",
+      "cas": "15545-48-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 496,
+      "chinese": "氯氨吡啶酸",
+      "english": "aminopyralid",
+      "cas": "150114-71-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 497,
+      "chinese": "氯氨环丙酸",
+      "english": "cyclanilide",
+      "cas": "113136-77-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 498,
+      "chinese": "氯苯胺灵",
+      "english": "chlorpropham",
+      "cas": "101-21-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 499,
+      "chinese": "氯苯甲醚",
+      "english": "chloroneb",
+      "cas": "2675-77-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 500,
+      "chinese": "氯苯嘧啶醇",
+      "english": "fenarimol",
+      "cas": "60168-88-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 501,
+      "chinese": "氯吡嘧磺隆",
+      "english": "halosulfuron -methyl",
+      "cas": "100784-20-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 502,
+      "chinese": "氯吡脲",
+      "english": "forchlorfenuron",
+      "cas": "68157-60-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 503,
+      "chinese": "氯丙嘧啶酸",
+      "english": "aminocyclopy-rachlor",
+      "cas": "858956-08-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 504,
+      "chinese": "氯草敏",
+      "english": "chloridazon",
+      "cas": "1698-60-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 505,
+      "chinese": "氯虫苯甲酰胺",
+      "english": "chlorantranilip-role",
+      "cas": "500008-45-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 506,
+      "chinese": "氯丹",
+      "english": "chlordane",
+      "cas": "57-74-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 507,
+      "chinese": "氯啶菌酯",
+      "english": "triclopyricarb",
+      "cas": "902760-40-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 508,
+      "chinese": "氯氟吡啶酯",
+      "english": "florpyrauxifen-benzyl",
+      "cas": "1390661-72-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 509,
+      "chinese": "氯氟吡氧乙酸",
+      "english": "fluroxypyr",
+      "cas": "69377-81-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 510,
+      "chinese": "氯氟吡氧乙酸异辛酯",
+      "english": "fluroxypyr-meptyl",
+      "cas": "81406-37-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 511,
+      "chinese": "氯氟联苯吡菌胺",
+      "english": "bixafen",
+      "cas": "581809-46-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 512,
+      "chinese": "氯氟醚菊酯",
+      "english": "meperfluthrin",
+      "cas": "915288-13-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 513,
+      "chinese": "氯氟醚菌唑",
+      "english": "mefentriflucon-azole",
+      "cas": "1417782-03-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 514,
+      "chinese": "氯氟氰菊酯",
+      "english": "cyhalothrin",
+      "cas": "68085-85-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 515,
+      "chinese": "高效氯氟氰菊酯",
+      "english": "lambda-cyhalo-thrin",
+      "cas": "91465-08-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 516,
+      "chinese": "精高效氯氟氰菊酯",
+      "english": "gamma-cyhalo-thrin",
+      "cas": "76703-62-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 517,
+      "chinese": "氯化胆碱",
+      "english": "choline chloride",
+      "cas": "67-48-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 518,
+      "chinese": "氯化苦",
+      "english": "chloropicrin",
+      "cas": "76-06-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 519,
+      "chinese": "氯化血红素",
+      "english": "chlorohemin",
+      "cas": "16009-13-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 520,
+      "chinese": "氯磺隆",
+      "english": "chlorsulfuron",
+      "cas": "64902-72-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 521,
+      "chinese": "氯菊酯",
+      "english": "permethrin",
+      "cas": "52645-53-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 522,
+      "chinese": "氯嘧磺隆",
+      "english": "chlorimuron-ethyl",
+      "cas": "90982-32-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 523,
+      "chinese": "氯氰菊酯",
+      "english": "cypermethrin",
+      "cas": "52315-07-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 524,
+      "chinese": "高效氯氰菊酯",
+      "english": "beta-cyper-methrin",
+      "cas": "1224510-29-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 525,
+      "chinese": "高效反式氯氰菊酯",
+      "english": "theta-cyper-methrin",
+      "cas": "71697-59-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 526,
+      "chinese": "顺式氯氰菊酯",
+      "english": "alpha-cyper-methrin",
+      "cas": "67375-30-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 527,
+      "chinese": "Zeta-氯氰菊酯",
+      "english": "zeta-cyper-methrin",
+      "cas": "1315501-18-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 528,
+      "chinese": "氯噻啉",
+      "english": "imidaclothiz",
+      "cas": "105843-36-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 529,
+      "chinese": "氯酞酸甲酯",
+      "english": "chlorthal-dime-thyl",
+      "cas": "1861-32-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 530,
+      "chinese": "氯烯炔菊酯",
+      "english": "chlorem-penthrinf",
+      "cas": "54407-47-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 531,
+      "chinese": "氯硝胺",
+      "english": "dicloran",
+      "cas": "99-30-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 532,
+      "chinese": "氯溴异氰尿酸",
+      "english": "chlorobromoiso-cyanuricacidg",
+      "cas": "89325-49-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 533,
+      "chinese": "氯酯磺草胺",
+      "english": "cloransulam -methyl",
+      "cas": "147150-35-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 534,
+      "chinese": "氯唑磷",
+      "english": "isazofos",
+      "cas": "42509-80-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 535,
+      "chinese": "马拉硫磷",
+      "english": "malathion",
+      "cas": "121-75-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 536,
+      "chinese": "麦草畏",
+      "english": "dicamba",
+      "cas": "1918-00-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 537,
+      "chinese": "茅草枯",
+      "english": "dalapon",
+      "cas": "75-99-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 538,
+      "chinese": "咪鲜胺",
+      "english": "prochloraz",
+      "cas": "67747-09-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 539,
+      "chinese": "咪唑菌酮",
+      "english": "fenamidone",
+      "cas": "161326-34-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 540,
+      "chinese": "咪唑喹啉酸",
+      "english": "imazaquin",
+      "cas": "81335-37-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 541,
+      "chinese": "咪唑烟酸",
+      "english": "imazapyr",
+      "cas": "81334-34-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 542,
+      "chinese": "咪唑乙烟酸",
+      "english": "imazethapyr",
+      "cas": "81335-77-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 543,
+      "chinese": "醚苯磺隆",
+      "english": "triasulfuron",
+      "cas": "82097-50-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 544,
+      "chinese": "醚磺隆",
+      "english": "cinosulfuron",
+      "cas": "94593-91-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 545,
+      "chinese": "醚菊酯",
+      "english": "etofenprox",
+      "cas": "80844-07-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 546,
+      "chinese": "醚菌酯",
+      "english": "kresoxim-meth-yl",
+      "cas": "143390-89-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 547,
+      "chinese": "嘧苯胺磺隆",
+      "english": "orthosulfamu-ron",
+      "cas": "213464-77-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 548,
+      "chinese": "嘧草醚",
+      "english": "pyriminobac -methyl",
+      "cas": "136191-64-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 549,
+      "chinese": "嘧啶核苷类抗菌素",
+      "english": "midingheganlei-kangjunsuf",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 550,
+      "chinese": "嘧啶肟草醚",
+      "english": "pyribenzoxim",
+      "cas": "168088-61-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 551,
+      "chinese": "嘧菌环胺",
+      "english": "cyprodinil",
+      "cas": "121552-61-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 552,
+      "chinese": "嘧菌酯",
+      "english": "azoxystrobin",
+      "cas": "131860-33-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 553,
+      "chinese": "嘧霉胺",
+      "english": "pyrimethanil",
+      "cas": "53112-28-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 554,
+      "chinese": "棉隆",
+      "english": "dazomet",
+      "cas": "533-74-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 555,
+      "chinese": "灭草敌",
+      "english": "vernolate",
+      "cas": "1929-77-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 556,
+      "chinese": "灭草环",
+      "english": "tridiphane",
+      "cas": "58138-08-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 557,
+      "chinese": "灭草松",
+      "english": "bentazone",
+      "cas": "25057-89-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 558,
+      "chinese": "灭多威",
+      "english": "methomyl",
+      "cas": "16752-77-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 559,
+      "chinese": "灭菌丹",
+      "english": "folpet",
+      "cas": "133-07-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 560,
+      "chinese": "灭菌唑",
+      "english": "triticonazole",
+      "cas": "131983-72-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 561,
+      "chinese": "灭螨醌",
+      "english": "acequinocyl",
+      "cas": "57960-19-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 562,
+      "chinese": "灭瘟素",
+      "english": "blasticidin S",
+      "cas": "2079-00-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 563,
+      "chinese": "灭线磷",
+      "english": "ethoprophos",
+      "cas": "13194-48-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 564,
+      "chinese": "灭锈胺",
+      "english": "mepronil",
+      "cas": "55814-41-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 565,
+      "chinese": "灭蝇胺",
+      "english": "cyromazine",
+      "cas": "66215-27-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 566,
+      "chinese": "灭幼脲",
+      "english": "chlorbenzuronf",
+      "cas": "57160-47-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 567,
+      "chinese": "萘乙酸",
+      "english": "1-naphthalene-aceticacidf",
+      "cas": "86-87-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 568,
+      "chinese": "内吸磷",
+      "english": "demeton",
+      "cas": "8065-48-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 569,
+      "chinese": "尿囊素",
+      "english": "allantoin",
+      "cas": "97-59-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 570,
+      "chinese": "宁南霉素",
+      "english": "ningnanmycin",
+      "cas": "156410-09-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 571,
+      "chinese": "柠檬酸铜",
+      "english": "copper citrate",
+      "cas": "10402-15-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 572,
+      "chinese": "哌草丹",
+      "english": "dimepiperate",
+      "cas": "61432-55-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 573,
+      "chinese": "哌虫啶",
+      "english": "paichongding",
+      "cas": "948994-16-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 574,
+      "chinese": "硼酸",
+      "english": "boric acid",
+      "cas": "10043-35-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 575,
+      "chinese": "扑草净",
+      "english": "prometryn",
+      "cas": "7287-19-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 576,
+      "chinese": "扑灭津",
+      "english": "propazine",
+      "cas": "139-40-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 577,
+      "chinese": "葡聚寡糖素",
+      "english": "heptaglucoside",
+      "cas": "93269-99-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 578,
+      "chinese": "葡聚烯糖",
+      "english": "D-glucan",
+      "cas": "9012-72-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 579,
+      "chinese": "七氟甲醚菊酯",
+      "english": "heptafluthrin",
+      "cas": "1130296-65-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 580,
+      "chinese": "七氯",
+      "english": "heptachlor",
+      "cas": "76-44-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 581,
+      "chinese": "羟哌酯",
+      "english": "icaridin",
+      "cas": "119515-38-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 582,
+      "chinese": "羟烯腺嘌呤",
+      "english": "zeatinb",
+      "cas": "1637-39-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 583,
+      "chinese": "嗪吡嘧磺隆",
+      "english": "metazosulfuron",
+      "cas": "868680-84-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 584,
+      "chinese": "嗪氨灵",
+      "english": "triforine",
+      "cas": "26644-46-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 585,
+      "chinese": "嗪草酸",
+      "english": "fluthiacet",
+      "cas": "149253-65-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 586,
+      "chinese": "嗪草酸甲酯",
+      "english": "fluthiacet-meth-yl",
+      "cas": "117337-19-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 587,
+      "chinese": "嗪草酮",
+      "english": "metribuzin",
+      "cas": "21087-64-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 588,
+      "chinese": "氢氧化铜",
+      "english": "copper hydrox-ideg",
+      "cas": "20427-59-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 589,
+      "chinese": "氰氨化钙",
+      "english": "calcium cyanamide",
+      "cas": "156-62-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 590,
+      "chinese": "氰草津",
+      "english": "cyanazine",
+      "cas": "21725-46-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 591,
+      "chinese": "氰氟草酯",
+      "english": "cyhalofop-butyl",
+      "cas": "122008-85-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 592,
+      "chinese": "氰氟虫腙",
+      "english": "metaflumizone",
+      "cas": "139968-49-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 593,
+      "chinese": "氰霜唑",
+      "english": "cyazofamid",
+      "cas": "120116-88-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 594,
+      "chinese": "氰戊菊酯",
+      "english": "fenvalerate",
+      "cas": "51630-58-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 595,
+      "chinese": "S-氰戊菊酯",
+      "english": "esfenvalerate",
+      "cas": "66230-04-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 596,
+      "chinese": "氰烯菌酯",
+      "english": "phenamacril",
+      "cas": "39491-78-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 597,
+      "chinese": "炔苯酰草胺",
+      "english": "propyzamide",
+      "cas": "23950-58-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 598,
+      "chinese": "炔丙菊酯",
+      "english": "prallethrin",
+      "cas": "23031-36-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 599,
+      "chinese": "右旋炔丙菊酯",
+      "english": "d-prallethrin",
+      "cas": "103065-19-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 600,
+      "chinese": "富右旋反式炔丙菊酯",
+      "english": "rich-d-t-pralle-thrin",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 601,
+      "chinese": "炔草酯",
+      "english": "clodinafop-pr-opargyl",
+      "cas": "105512-06-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 602,
+      "chinese": "炔呋菊酯",
+      "english": "furamethrin",
+      "cas": "23031-38-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 603,
+      "chinese": "右旋炔呋菊酯",
+      "english": "d-furamethrin",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 604,
+      "chinese": "右旋反式炔呋菊酯",
+      "english": "d-trans-fura-methrin",
+      "cas": "51348-88-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 605,
+      "chinese": "炔螨特",
+      "english": "propargite",
+      "cas": "2312-35-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 606,
+      "chinese": "炔咪菊酯",
+      "english": "imiprothrin",
+      "cas": "72963-72-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 607,
+      "chinese": "壬菌铜",
+      "english": "renjuntong",
+      "cas": "61607-83-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 608,
+      "chinese": "乳氟禾草灵",
+      "english": "lactofen",
+      "cas": "77501-63-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 609,
+      "chinese": "噻苯隆",
+      "english": "thidiazuron",
+      "cas": "51707-55-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 610,
+      "chinese": "噻草酮",
+      "english": "cycloxydim",
+      "cas": "101205-02-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 611,
+      "chinese": "噻虫胺",
+      "english": "clothianidin",
+      "cas": "210880-92-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 612,
+      "chinese": "噻虫啉",
+      "english": "thiacloprid",
+      "cas": "111988-49-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 613,
+      "chinese": "噻虫嗪",
+      "english": "thiamethoxam",
+      "cas": "153719-23-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 614,
+      "chinese": "噻吩磺隆",
+      "english": "thifensulfuron-methyl",
+      "cas": "79277-27-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 615,
+      "chinese": "噻呋酰胺",
+      "english": "thifluzamide",
+      "cas": "130000-40-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 616,
+      "chinese": "噻节因",
+      "english": "dimethipin",
+      "cas": "55290-64-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 617,
+      "chinese": "噻菌灵",
+      "english": "thiabendazole",
+      "cas": "148-79-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 618,
+      "chinese": "噻菌铜",
+      "english": "thiodiazole-cop-per",
+      "cas": "3234-61-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 619,
+      "chinese": "噻螨酮",
+      "english": "hexythiazox",
+      "cas": "78587-05-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 620,
+      "chinese": "噻霉酮",
+      "english": "benziothiazolin-onef",
+      "cas": "2634-33-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 621,
+      "chinese": "噻嗪酮",
+      "english": "buprofezin",
+      "cas": "953030-84-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 622,
+      "chinese": "噻森铜",
+      "english": "saisentong",
+      "cas": "1009088-34-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 623,
+      "chinese": "噻酮磺隆",
+      "english": "thiencarbazone-methyl",
+      "cas": "317815-83-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 624,
+      "chinese": "噻唑膦",
+      "english": "fosthiazate",
+      "cas": "98886-44-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 625,
+      "chinese": "噻唑锌",
+      "english": "zincthiazoleb",
+      "cas": "3234-62-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 626,
+      "chinese": "三苯基氢氧化锡",
+      "english": "fentinhydroxide",
+      "cas": "76-87-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 627,
+      "chinese": "三苯基乙酸锡",
+      "english": "fentinacetate",
+      "cas": "900-95-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 628,
+      "chinese": "三氟苯嘧啶",
+      "english": "triflumezopyrim",
+      "cas": "1263133-33-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 629,
+      "chinese": "三氟吡啶胺",
+      "english": "cyclobutriflu-ram",
+      "cas": "1460292-16-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 630,
+      "chinese": "三氟啶磺隆钠盐",
+      "english": "trifloxysulfuron-sodium",
+      "cas": "199119-58-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 631,
+      "chinese": "三氟甲吡醚",
+      "english": "pyridalyl",
+      "cas": "179101-81-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 632,
+      "chinese": "三氟咪啶酰胺",
+      "english": "fluazaindolizine",
+      "cas": "1254304-22-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 633,
+      "chinese": "三氟硝草醚",
+      "english": "fluorodifen",
+      "cas": "15457-05-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 634,
+      "chinese": "三氟羧草醚",
+      "english": "acifluorfen",
+      "cas": "50594-66-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 635,
+      "chinese": "三环锡",
+      "english": "cyhexatin",
+      "cas": "13121-70-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 636,
+      "chinese": "三环唑",
+      "english": "tricyclazole",
+      "cas": "41814-78-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 637,
+      "chinese": "三甲苯草酮",
+      "english": "tralkoxydim",
+      "cas": "87820-88-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 638,
+      "chinese": "三氯吡氧乙酸",
+      "english": "triclopyr",
+      "cas": "55335-06-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 639,
+      "chinese": "三氯吡氧乙酸丁氧基乙酯",
+      "english": "triclopyr-butot-yl",
+      "cas": "64700-56-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 640,
+      "chinese": "三氯杀虫酯",
+      "english": "plifenate",
+      "cas": "21757-82-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 641,
+      "chinese": "三氯杀螨醇",
+      "english": "dicofol",
+      "cas": "115-32-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 642,
+      "chinese": "三氯杀螨砜",
+      "english": "tetradifon",
+      "cas": "116-29-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 643,
+      "chinese": "三氯异氰尿酸",
+      "english": "trichloro-s-tria-zinetrioneb",
+      "cas": "87-90-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 644,
+      "chinese": "三十烷醇",
+      "english": "triacontanol",
+      "cas": "593-50-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 645,
+      "chinese": "三乙膦酸铝",
+      "english": "fosetyl-alumin-ium",
+      "cas": "39148-24-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 646,
+      "chinese": "三唑醇",
+      "english": "triadimenol",
+      "cas": "55219-65-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 647,
+      "chinese": "三唑磺草酮",
+      "english": "tripyrasulfone",
+      "cas": "1911613-97-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 648,
+      "chinese": "三唑磷",
+      "english": "triazophos",
+      "cas": "24017-47-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 649,
+      "chinese": "三唑酮",
+      "english": "triadimefon",
+      "cas": "43121-43-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 650,
+      "chinese": "三唑锡",
+      "english": "azocyclotin",
+      "cas": "41083-11-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 651,
+      "chinese": "杀草胺",
+      "english": "ethaprochlor",
+      "cas": "13508-73-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 652,
+      "chinese": "杀草隆",
+      "english": "daimuron",
+      "cas": "42609-52-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 653,
+      "chinese": "杀草强",
+      "english": "amitrole",
+      "cas": "61-82-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 654,
+      "chinese": "杀虫安",
+      "english": "thiosultap-di-ammonium",
+      "cas": "355831-86-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 655,
+      "chinese": "杀虫单",
+      "english": "thiosultap-mon-osodium",
+      "cas": "29547-00-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 656,
+      "chinese": "杀虫环",
+      "english": "thiocyclam ox-alate",
+      "cas": "31895-22-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 657,
+      "chinese": "杀虫脒",
+      "english": "chlordime-form",
+      "cas": "6164-98-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 658,
+      "chinese": "杀虫双",
+      "english": "thiosultap-diso-dium",
+      "cas": "52207-48-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 659,
+      "chinese": "杀虫畏",
+      "english": "tetrachlorvin-phos",
+      "cas": "22248-79-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 660,
+      "chinese": "杀铃脲",
+      "english": "triflumuron",
+      "cas": "64628-44-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 661,
+      "chinese": "杀螺胺",
+      "english": "niclosamide",
+      "cas": "50-65-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 662,
+      "chinese": "杀螟丹",
+      "english": "cartap hydro-chloride",
+      "cas": "15263-52-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 663,
+      "chinese": "杀螟腈",
+      "english": "cyanophos",
+      "cas": "2636-26-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 664,
+      "chinese": "杀螟硫磷",
+      "english": "fenitrothion",
+      "cas": "122-14-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 665,
+      "chinese": "杀木膦",
+      "english": "fosamine",
+      "cas": "59682-52-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 666,
+      "chinese": "杀扑磷",
+      "english": "methidathion",
+      "cas": "950-37-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 667,
+      "chinese": "杀鼠灵",
+      "english": "warfarin",
+      "cas": "81-81-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 668,
+      "chinese": "杀鼠醚",
+      "english": "coumatetralyl",
+      "cas": "5836-29-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 669,
+      "chinese": "杀线威",
+      "english": "oxamyl",
+      "cas": "23135-22-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 670,
+      "chinese": "莎稗磷",
+      "english": "anilofos",
+      "cas": "64249-01-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 671,
+      "chinese": "蛇床子素",
+      "english": "osthol",
+      "cas": "484-12-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 672,
+      "chinese": "申嗪霉素",
+      "english": "phenazine-1-car-boxylicacidf",
+      "cas": "2538-68-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 673,
+      "chinese": "生物苄呋菊酯",
+      "english": "bioresmethrin",
+      "cas": "28434-01-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 674,
+      "chinese": "生物烯丙菊酯",
+      "english": "bioallethrin",
+      "cas": "260359-57-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 675,
+      "chinese": "S-生物烯丙菊酯",
+      "english": "S-bioallethrin",
+      "cas": "28434-00-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 676,
+      "chinese": "ES-生物烯丙菊酯",
+      "english": "ES-bioallethrin",
+      "cas": "84030-86-4584-79-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 677,
+      "chinese": "虱螨脲",
+      "english": "lufenuron",
+      "cas": "103055-07-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 678,
+      "chinese": "十二烷基硫酸钠",
+      "english": "Sodium dodecylsulfateb",
+      "cas": "151-21-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 679,
+      "chinese": "十三吗啉",
+      "english": "tridemorph",
+      "cas": "81412-43-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 680,
+      "chinese": "白果新酸",
+      "english": "ginkgoneolic acid",
+      "cas": "20261-38-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 681,
+      "chinese": "肉豆蔻醇乙酸酯",
+      "english": "tetradecyl ace-tate",
+      "cas": "638-59-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 682,
+      "chinese": "银杏酸",
+      "english": "ginkgolic acid",
+      "cas": "22910-60-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 683,
+      "chinese": "石硫合剂",
+      "english": "calciumpolysul-fide",
+      "cas": "1344-81-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 684,
+      "chinese": "双丙氨膦",
+      "english": "bilanafos sodiumsalt",
+      "cas": "71048-99-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 685,
+      "chinese": "双丙环虫酯",
+      "english": "afidopyropen",
+      "cas": "915972-17-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 686,
+      "chinese": "双草醚",
+      "english": "bispyribac-sodi-um",
+      "cas": "125401-92-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 687,
+      "chinese": "双氟磺草胺",
+      "english": "florasulam",
+      "cas": "145701-23-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 688,
+      "chinese": "双胍三辛烷基苯磺酸盐",
+      "english": "Iminoctadine tris(albesilate)",
+      "cas": "169202-06-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 689,
+      "chinese": "双环磺草酮",
+      "english": "benzobicyclon",
+      "cas": "156963-66-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 690,
+      "chinese": "双甲胺草磷",
+      "english": "shuangjiaanca-olinf",
+      "cas": "189517-75-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 691,
+      "chinese": "双甲脒",
+      "english": "amitraz",
+      "cas": "33089-61-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 692,
+      "chinese": "双硫磷",
+      "english": "temephos",
+      "cas": "3383-96-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 693,
+      "chinese": "双氯磺草胺",
+      "english": "diclosulam",
+      "cas": "145701-21-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 694,
+      "chinese": "双炔酰菌胺",
+      "english": "mandipropamid",
+      "cas": "374726-62-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 695,
+      "chinese": "双酰草胺",
+      "english": "carbetamide",
+      "cas": "16118-49-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 696,
+      "chinese": "双唑草腈",
+      "english": "pyraclonil",
+      "cas": "158353-15-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 697,
+      "chinese": "双唑草酮",
+      "english": "bipyrazone",
+      "cas": "1622908-18-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 698,
+      "chinese": "霜霉威",
+      "english": "propamocarb",
+      "cas": "24579-73-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 699,
+      "chinese": "水胺硫磷",
+      "english": "isocarbophos",
+      "cas": "24353-61-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 700,
+      "chinese": "霜脲氰",
+      "english": "cymoxanil",
+      "cas": "57966-95-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 701,
+      "chinese": "顺7,反11-十六碳-7,11-二烯-1-基乙酸酯",
+      "english": "(Z,E )-7,11-Hexadecadienyl acetate",
+      "cas": "53042-79-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 702,
+      "chinese": "顺9,反11-十四碳烯乙酸酯",
+      "english": "9Z,11E-tetra-decadienyl ace-tateg",
+      "cas": "50767-79-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 703,
+      "chinese": "顺-7-十二碳烯乙酸酯",
+      "english": "(Z)-7-dodecenyl acetate",
+      "cas": "14959-86-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 704,
+      "chinese": "顺-8-十二碳烯醇",
+      "english": "(Z)-8-Dodecenol",
+      "cas": "40642-40-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 705,
+      "chinese": "顺-8-十二碳烯乙酸酯",
+      "english": "(Z)-8-Dodecenyl acetate",
+      "cas": "28079-04-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 706,
+      "chinese": "顺-9-十六碳烯醛",
+      "english": "(Z )-9-hexade-cenalg",
+      "cas": "56219-04-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 707,
+      "chinese": "顺-9-十四碳烯乙酸酯",
+      "english": "(Z )-9-Tetrade-cenylacetateg",
+      "cas": "16725-53-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 708,
+      "chinese": "顺-11-十六碳烯醛",
+      "english": "(Z )-11-hexade-cenalg",
+      "cas": "53939-28-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 709,
+      "chinese": "顺-11-十六碳烯乙酸酯",
+      "english": "(Z )-11-hexade-cenylacetateg",
+      "cas": "34010-21-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 710,
+      "chinese": "顺-12-十四碳烯乙酸酯",
+      "english": "(Z)-12-tetrade-cenylacetate",
+      "cas": "35153-20-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 711,
+      "chinese": "顺-13-十八碳烯醛",
+      "english": "(Z)-Octadec-13-enal",
+      "cas": "58594-45-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 712,
+      "chinese": "顺7,顺11-十六碳-7,11-二烯-1-基乙酸酯",
+      "english": "(Z,Z)-7, 11-Hexadecadi-enylacetate",
+      "cas": "52207-99-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 713,
+      "chinese": "四氟苯菊酯",
+      "english": "transfluthrin",
+      "cas": "118712-89-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 714,
+      "chinese": "四氟甲醚菊酯",
+      "english": "dimefluthrin",
+      "cas": "271241-14-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 715,
+      "chinese": "四氟醚菊酯",
+      "english": "tetramethyl-fluthrin",
+      "cas": "84937-88-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 716,
+      "chinese": "四氟醚唑",
+      "english": "tetraconazole",
+      "cas": "112281-77-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 717,
+      "chinese": "四聚乙醛",
+      "english": "metaldehyde",
+      "cas": "108-62-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 718,
+      "chinese": "四氯苯酞",
+      "english": "phthalide",
+      "cas": "27355-22-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 719,
+      "chinese": "四氯虫酰胺",
+      "english": "tetrachlorantra-niliprole",
+      "cas": "1104384-14-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 720,
+      "chinese": "四氯硝基苯",
+      "english": "tecnazene",
+      "cas": "117-18-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 721,
+      "chinese": "四螨嗪",
+      "english": "clofentezine",
+      "cas": "74115-24-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 722,
+      "chinese": "四霉素",
+      "english": "tetramycinb",
+      "cas": "11076-50-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 723,
+      "chinese": "四水八硼酸二钠",
+      "english": "disodium octab-orate tetra-hydrateb",
+      "cas": "12280-03-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 724,
+      "chinese": "四溴菊酯",
+      "english": "tralomethrin",
+      "cas": "66841-25-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 725,
+      "chinese": "四唑吡氨酯",
+      "english": "picarbutrazox",
+      "cas": "500207-04-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 726,
+      "chinese": "四唑虫酰胺",
+      "english": "tetraniliprole",
+      "cas": "1229654-66-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 727,
+      "chinese": "松脂酸钠",
+      "english": "sodium pimaric acid",
+      "cas": "28161-39-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 728,
+      "chinese": "速灭磷",
+      "english": "mevinphos",
+      "cas": "7786-34-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 729,
+      "chinese": "涕灭威",
+      "english": "aldicarb",
+      "cas": "116-06-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 730,
+      "chinese": "特草定",
+      "english": "terbacil",
+      "cas": "5902-51-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 731,
+      "chinese": "特丁津",
+      "english": "terbuthylazine",
+      "cas": "5915-41-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 732,
+      "chinese": "特丁净",
+      "english": "terbutryn",
+      "cas": "886-50-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 733,
+      "chinese": "特乐酚",
+      "english": "dinoterb",
+      "cas": "1420-07-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 734,
+      "chinese": "特丁硫磷",
+      "english": "terbufos",
+      "cas": "13071-79-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 735,
+      "chinese": "涕灭威",
+      "english": "aldicarb",
+      "cas": "116-06-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 736,
+      "chinese": "田安",
+      "english": "tiananf",
+      "cas": "35745-11-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 737,
+      "chinese": "甜菜安",
+      "english": "desmedipham",
+      "cas": "13684-56-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 738,
+      "chinese": "甜菜宁",
+      "english": "phenmedipham",
+      "cas": "13684-63-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 739,
+      "chinese": "调环酸",
+      "english": "prohexadione",
+      "cas": "88805-35-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 740,
+      "chinese": "调节安",
+      "english": "tiaojieano",
+      "cas": "23165-19-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 741,
+      "chinese": "4-萜烯醇",
+      "english": "terpinen-4-olg",
+      "cas": "562-74-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 742,
+      "chinese": "土菌灵",
+      "english": "etridiazole",
+      "cas": "2593-15-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 743,
+      "chinese": "王铜",
+      "english": "copperoxychlo-rideg",
+      "cas": "1332-40-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 744,
+      "chinese": "威百亩",
+      "english": "metam-sodium",
+      "cas": "137-42-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 745,
+      "chinese": "萎锈灵",
+      "english": "carboxin",
+      "cas": "5234-68-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 746,
+      "chinese": "肟菌酯",
+      "english": "trifloxystrobin",
+      "cas": "141517-21-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 747,
+      "chinese": "五氟磺草胺",
+      "english": "penoxsulam",
+      "cas": "219714-96-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 748,
+      "chinese": "五氯酚",
+      "english": "pentachloro phenol",
+      "cas": "87-86-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 749,
+      "chinese": "五氯硝基苯",
+      "english": "quintozene",
+      "cas": "82-68-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 750,
+      "chinese": "戊菊酯",
+      "english": "valerate",
+      "cas": "51630-33-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 751,
+      "chinese": "戊菌唑",
+      "english": "penconazole",
+      "cas": "66246-88-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 752,
+      "chinese": "戊硝酚",
+      "english": "dinosam",
+      "cas": "4097-36-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 753,
+      "chinese": "戊唑醇",
+      "english": "tebuconazole",
+      "cas": "107534-96-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 754,
+      "chinese": "西草净",
+      "english": "simetryn",
+      "cas": "1014-70-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 755,
+      "chinese": "西玛津",
+      "english": "simazine",
+      "cas": "122-34-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 756,
+      "chinese": "烯丙苯噻唑",
+      "english": "probenazole",
+      "cas": "27605-76-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 757,
+      "chinese": "烯丙菊酯",
+      "english": "allethrin",
+      "cas": "584-79-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 758,
+      "chinese": "右旋烯丙菊酯",
+      "english": "d-allethrin",
+      "cas": "231937-89-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 759,
+      "chinese": "富右旋反式烯丙菊酯",
+      "english": "rich-d-trans al-lethrinf",
+      "cas": "22431-63-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 760,
+      "chinese": "烯草酮",
+      "english": "clethodim",
+      "cas": "99129-21-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 761,
+      "chinese": "烯虫炔酯",
+      "english": "kinoprene",
+      "cas": "42588-37-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 762,
+      "chinese": "烯虫乙酯",
+      "english": "hydroprene",
+      "cas": "41096-46-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 763,
+      "chinese": "烯虫酯",
+      "english": "methoprene",
+      "cas": "40596-69-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 764,
+      "chinese": "S-烯虫酯",
+      "english": "S-methoprene",
+      "cas": "65733-16-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 765,
+      "chinese": "烯啶虫胺",
+      "english": "nitenpyram",
+      "cas": "150824-47-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 766,
+      "chinese": "烯禾啶",
+      "english": "sethoxydim",
+      "cas": "74051-80-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 767,
+      "chinese": "烯肟菌胺",
+      "english": "fenaminstrobin",
+      "cas": "366815-39-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 768,
+      "chinese": "烯肟菌酯",
+      "english": "enoxastrobin",
+      "cas": "238410-11-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 769,
+      "chinese": "烯酰吗啉",
+      "english": "dimethomorph",
+      "cas": "110488-70-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 770,
+      "chinese": "烯腺嘌呤",
+      "english": "2iP",
+      "cas": "2365-40-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 771,
+      "chinese": "烯效唑",
+      "english": "uniconazole",
+      "cas": "83657-22-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 772,
+      "chinese": "烯唑醇",
+      "english": "diniconazole",
+      "cas": "83657-24-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 773,
+      "chinese": "R-烯唑醇",
+      "english": "diniconazole-M",
+      "cas": "83657-18-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 774,
+      "chinese": "酰氨寡糖素",
+      "english": "hetero-chitooli-gosaccharide",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 775,
+      "chinese": "酰氨寡糖素醋酸盐",
+      "english": "hetero-chitooli-gosaccha rideacetateb",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 776,
+      "chinese": "酰嘧磺隆",
+      "english": "amidosulfuron",
+      "cas": "120923-37-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 777,
+      "chinese": "香菇多糖",
+      "english": "lentinan",
+      "cas": "37339-90-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 778,
+      "chinese": "香芹酚",
+      "english": "carvacrol",
+      "cas": "499-75-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 779,
+      "chinese": "消螨酚",
+      "english": "dinex",
+      "cas": "131-89-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 780,
+      "chinese": "硝苯菌酯",
+      "english": "meptyldinocap",
+      "cas": "131-72-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 781,
+      "chinese": "硝虫硫磷",
+      "english": "xiaochongliulinf",
+      "cas": "171605-91-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 782,
+      "chinese": "硝磺草酮",
+      "english": "mesotrione",
+      "cas": "104206-82-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 783,
+      "chinese": "小檗碱",
+      "english": "berberine",
+      "cas": "2086-83-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 784,
+      "chinese": "缬菌胺",
+      "english": "valifenalate",
+      "cas": "283159-90-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 785,
+      "chinese": "缬霉威",
+      "english": "iprovalicarb",
+      "cas": "140923-17-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 786,
+      "chinese": "辛菌胺",
+      "english": "seboctylamine / seboctylamine acetate",
+      "cas": "",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 787,
+      "chinese": "辛硫磷",
+      "english": "phoxim",
+      "cas": "14816-18-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 788,
+      "chinese": "辛酰碘苯腈",
+      "english": "ioxynil octano-ate",
+      "cas": "3861-47-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 789,
+      "chinese": "辛酰溴苯腈",
+      "english": "bromoxynil oc-tanoate",
+      "cas": "1689-99-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 790,
+      "chinese": "溴苯腈",
+      "english": "bromoxynil",
+      "cas": "1689-84-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 791,
+      "chinese": "溴虫氟苯双酰胺",
+      "english": "broflanilide",
+      "cas": "1207727-04-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 792,
+      "chinese": "溴敌隆",
+      "english": "bromadiolone",
+      "cas": "28772-56-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 793,
+      "chinese": "溴甲烷",
+      "english": "methylbromide",
+      "cas": "74-83-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 794,
+      "chinese": "溴菌腈",
+      "english": "bromothalonil",
+      "cas": "35691-65-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 795,
+      "chinese": "溴螨酯",
+      "english": "bromopropylate",
+      "cas": "18181-80-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 796,
+      "chinese": "溴氰虫酰胺",
+      "english": "cyantraniliprole",
+      "cas": "736994-63-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 797,
+      "chinese": "溴氰菊酯",
+      "english": "deltamethrin",
+      "cas": "52918-63-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 798,
+      "chinese": "溴鼠灵",
+      "english": "brodifacoum",
+      "cas": "56073-10-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 799,
+      "chinese": "溴硝醇",
+      "english": "bronopol",
+      "cas": "52-51-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 800,
+      "chinese": "蚜灭磷",
+      "english": "vamidothion",
+      "cas": "2275-23-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 801,
+      "chinese": "亚胺硫磷",
+      "english": "phosmet",
+      "cas": "732-11-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 802,
+      "chinese": "亚胺唑",
+      "english": "imibenconazole",
+      "cas": "86598-92-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 803,
+      "chinese": "亚砜磷",
+      "english": "oxydemeton-methyl",
+      "cas": "301-12-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 804,
+      "chinese": "烟碱",
+      "english": "nicotine",
+      "cas": "54-11-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 805,
+      "chinese": "烟嘧磺隆",
+      "english": "nicosulfuron",
+      "cas": "111991-09-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 806,
+      "chinese": "盐酸吗啉胍",
+      "english": "moroxydine hydrochloride",
+      "cas": "3160-91-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 807,
+      "chinese": "氧化亚铜",
+      "english": "cuprousoxideg",
+      "cas": "1317-39-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 808,
+      "chinese": "氧乐果",
+      "english": "omethoate",
+      "cas": "1113-02-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 809,
+      "chinese": "野麦畏",
+      "english": "triallate",
+      "cas": "2303-17-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 810,
+      "chinese": "野燕枯",
+      "english": "difenzoquat",
+      "cas": "49866-87-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 811,
+      "chinese": "叶菌唑",
+      "english": "metconazole",
+      "cas": "125116-23-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 812,
+      "chinese": "叶枯唑",
+      "english": "bismerthiazol",
+      "cas": "79319-85-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 813,
+      "chinese": "依维菌素",
+      "english": "ivermectin",
+      "cas": "70288-86-7;70161-11-4(B1a);70209-81-3(B1b)",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 814,
+      "chinese": "乙拌磷",
+      "english": "disulfoton",
+      "cas": "298-04-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 815,
+      "chinese": "乙草胺",
+      "english": "acetochlor",
+      "cas": "34256-82-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 816,
+      "chinese": "乙虫腈",
+      "english": "ethiprole",
+      "cas": "181587-01-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 817,
+      "chinese": "乙基多杀菌素",
+      "english": "spinetoram",
+      "cas": "187166-40-1;187166-15-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 818,
+      "chinese": "乙硫磷",
+      "english": "ethion",
+      "cas": "563-12-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 819,
+      "chinese": "乙螨唑",
+      "english": "etoxazole",
+      "cas": "153233-91-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 820,
+      "chinese": "乙霉威",
+      "english": "diethofencarb",
+      "cas": "87130-20-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 821,
+      "chinese": "乙嘧酚",
+      "english": "ethirimol",
+      "cas": "23947-60-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 822,
+      "chinese": "乙嘧酚磺酸酯",
+      "english": "bupirimate",
+      "cas": "41483-43-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 823,
+      "chinese": "乙酸铜",
+      "english": "copperacetate",
+      "cas": "142-71-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 824,
+      "chinese": "乙蒜素",
+      "english": "ethylicin",
+      "cas": "682-91-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 825,
+      "chinese": "乙羧氟草醚",
+      "english": "fluoroglycofen-ethyl",
+      "cas": "77501-90-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 826,
+      "chinese": "乙烯菌核利",
+      "english": "vinclozolin",
+      "cas": "50471-44-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 827,
+      "chinese": "乙烯利",
+      "english": "ethephonf",
+      "cas": "16672-87-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 828,
+      "chinese": "乙酰甲胺磷",
+      "english": "acephate",
+      "cas": "30560-19-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 829,
+      "chinese": "乙氧呋草黄",
+      "english": "ethofumesate",
+      "cas": "26225-79-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 830,
+      "chinese": "乙氧氟草醚",
+      "english": "oxyfluorfen",
+      "cas": "42874-03-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 831,
+      "chinese": "乙氧磺隆",
+      "english": "ethoxysulfuron",
+      "cas": "126801-58-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 832,
+      "chinese": "乙氧喹啉",
+      "english": "ethoxyquin",
+      "cas": "91-53-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 833,
+      "chinese": "乙酯杀螨醇",
+      "english": "chlorobenzilate",
+      "cas": "510-15-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 834,
+      "chinese": "乙唑螨腈",
+      "english": "cyetpyrafen",
+      "cas": "1253429-01-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 835,
+      "chinese": "异丙草胺",
+      "english": "propisochlorf",
+      "cas": "86763-47-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 836,
+      "chinese": "异丙甲草胺",
+      "english": "metolachlor",
+      "cas": "51218-45-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 837,
+      "chinese": "精异丙甲草胺",
+      "english": "S-metolachlor",
+      "cas": "87392-12-9;178961-20-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 838,
+      "chinese": "异丙隆",
+      "english": "isoproturon",
+      "cas": "34123-59-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 839,
+      "chinese": "异丙噻菌胺",
+      "english": "isofetamid",
+      "cas": "875915-78-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 840,
+      "chinese": "异丙威",
+      "english": "isoprocarb",
+      "cas": "2631-40-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 841,
+      "chinese": "异丙酯草醚",
+      "english": "pyribamben z-isopropylf",
+      "cas": "420138-41-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 842,
+      "chinese": "异稻瘟净",
+      "english": "iprobenfos",
+      "cas": "26087-47-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 843,
+      "chinese": "异狄氏剂",
+      "english": "endrin",
+      "cas": "72-20-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 844,
+      "chinese": "异草松",
+      "english": "clomazone",
+      "cas": "81777-89-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 845,
+      "chinese": "异唑草酮",
+      "english": "isoxaflutole",
+      "cas": "141112-29-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 846,
+      "chinese": "异菌脲",
+      "english": "iprodione",
+      "cas": "36734-19-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 847,
+      "chinese": "异硫氰酸烯丙酯",
+      "english": "allylisothiocyan atef",
+      "cas": "57-06-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 848,
+      "chinese": "异噻菌胺",
+      "english": "isotianil",
+      "cas": "224049-04-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 849,
+      "chinese": "抑草蓬",
+      "english": "erbon",
+      "cas": "136-25-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 850,
+      "chinese": "抑霉唑",
+      "english": "imazalil",
+      "cas": "35554-44-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 851,
+      "chinese": "抑食肼",
+      "english": "yishijingf",
+      "cas": "112225-87-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 852,
+      "chinese": "抑芽丹",
+      "english": "maleic hydra-zide",
+      "cas": "123-33-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 853,
+      "chinese": "茵草敌",
+      "english": "EPTC",
+      "cas": "759-94-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 854,
+      "chinese": "吲哚丁酸",
+      "english": "IBA",
+      "cas": "133-32-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 855,
+      "chinese": "吲哚乙酸",
+      "english": "IAA",
+      "cas": "87-51-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 856,
+      "chinese": "吲唑磺菌胺",
+      "english": "amisulbrom",
+      "cas": "348635-87-0",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 857,
+      "chinese": "印楝素",
+      "english": "azadirachtinb",
+      "cas": "11141-17-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 858,
+      "chinese": "茚草酮",
+      "english": "indanofan",
+      "cas": "133220-30-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 859,
+      "chinese": "茚虫威",
+      "english": "indoxacarb",
+      "cas": "173584-44-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 860,
+      "chinese": "蝇毒磷",
+      "english": "coumaphos",
+      "cas": "56-72-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 861,
+      "chinese": "莠灭净",
+      "english": "ametryn",
+      "cas": "834-12-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 862,
+      "chinese": "莠去津",
+      "english": "atrazine",
+      "cas": "1912-24-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 863,
+      "chinese": "右旋反式氯丙炔菊酯",
+      "english": "chloropral lethrin",
+      "cas": "250346-55-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 864,
+      "chinese": "右旋烯炔菊酯",
+      "english": "empenthrin",
+      "cas": "54406-48-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 865,
+      "chinese": "右旋樟脑",
+      "english": "d-camphorb",
+      "cas": "464-49-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 866,
+      "chinese": "诱虫烯",
+      "english": "muscalurei",
+      "cas": "27519-02-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 867,
+      "chinese": "诱抗素",
+      "english": "abscisicacid",
+      "cas": "14375-45-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 868,
+      "chinese": "鱼藤酮",
+      "english": "rotenone",
+      "cas": "83-79-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 869,
+      "chinese": "芸苔素内酯",
+      "english": "brassinolide",
+      "cas": "72962-43-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 870,
+      "chinese": "14-羟基芸苔素甾醇",
+      "english": "14-hydroxylated brassinoster oidb",
+      "cas": "457603-63-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 871,
+      "chinese": "22,23,24-表芸苔素内酯",
+      "english": "brassinosteroidg",
+      "cas": "78821-42-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 872,
+      "chinese": "24-表芸苔素内酯",
+      "english": "24-epibrassinolideg",
+      "cas": "78821-43-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 873,
+      "chinese": "28-表高芸苔素内酯",
+      "english": "(22S,23S)-ho-mobrassinolideg",
+      "cas": "80483-89-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 874,
+      "chinese": "28-高芸苔素内酯",
+      "english": "28-homobras-sinolideg",
+      "cas": "82373-95-3",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 875,
+      "chinese": "丙酰芸苔素内酯",
+      "english": "epocholeoneg",
+      "cas": "162922-31-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 876,
+      "chinese": "甾烯醇",
+      "english": "β-sitosterolb",
+      "cas": "83-46-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 877,
+      "chinese": "藻酸丙二醇酯",
+      "english": "propylene glycolalginatef",
+      "cas": "9005-37-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 878,
+      "chinese": "合成樟脑",
+      "english": "camphor",
+      "cas": "76-22-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 879,
+      "chinese": "治螟磷",
+      "english": "sulfotep",
+      "cas": "3689-24-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 880,
+      "chinese": "中生菌素",
+      "english": "zhongshengmy-cinf",
+      "cas": "861228-39-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 881,
+      "chinese": "种菌唑",
+      "english": "ipconazole",
+      "cas": "125225-28-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 882,
+      "chinese": "仲丁灵",
+      "english": "butralin",
+      "cas": "33629-47-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 883,
+      "chinese": "仲丁威",
+      "english": "fenobucarb",
+      "cas": "3766-81-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 884,
+      "chinese": "唑胺菌酯",
+      "english": "pyrametostrobin",
+      "cas": "915410-70-7",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 885,
+      "chinese": "唑草酮",
+      "english": "carfentrazone-ethyl",
+      "cas": "128639-02-1",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 886,
+      "chinese": "唑虫酰胺",
+      "english": "tolfenpyrad",
+      "cas": "129558-76-5",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 887,
+      "chinese": "唑菌酯",
+      "english": "pyraoxystrobin",
+      "cas": "862588-11-2",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 888,
+      "chinese": "唑啉草酯",
+      "english": "pinoxaden",
+      "cas": "243973-20-8",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 889,
+      "chinese": "唑螨酯",
+      "english": "fenpyroximate",
+      "cas": "134098-61-6",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 890,
+      "chinese": "唑嘧磺草胺",
+      "english": "flumetsulam",
+      "cas": "98967-40-9",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 891,
+      "chinese": "唑嘧菌胺",
+      "english": "ametoctradin",
+      "cas": "865318-97-4",
+      "gb_table": "表1",
+      "gb_group": "非微生物类农药"
+    },
+    {
+      "id": 1,
+      "chinese": "贝莱斯芽孢杆菌",
+      "english": "Bacillusvelezensis",
+      "latin_name": "Bacillusvelezensis",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 1,
+      "chinese": "贝莱斯芽孢杆菌SH-1471",
+      "english": "BacillusvelezensisSH-1471",
+      "latin_name": "BacillusvelezensisSH-1471",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 1,
+      "chinese": "贝莱斯芽孢杆菌BF",
+      "english": "BacillusvelezensisBF",
+      "latin_name": "BacillusvelezensisBF",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 1,
+      "chinese": "贝莱斯芽孢杆菌MBI600",
+      "english": "Bacillusvelezensis MBI600",
+      "latin_name": "Bacillusvelezensis MBI600",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 1,
+      "chinese": "贝莱斯芽孢杆菌CGMCCNo.14384",
+      "english": "BacillusvelezensisCGMCCNo.14384",
+      "latin_name": "BacillusvelezensisCGMCCNo.14384",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 2,
+      "chinese": "菜青虫颗粒体病毒",
+      "english": "Pierisrapaegranulovirus(PiraGV)",
+      "latin_name": "Pierisrapaegranulovirus(PiraGV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 3,
+      "chinese": "草地贪夜蛾核型多角体病毒Hub1",
+      "english": "Spodopterafrugiperdamultiplenucleopolyhedrovirus (SfMNPV)Hub1",
+      "latin_name": "Spodopterafrugiperdamultiplenucleopolyhedrovirus (SfMNPV)Hub1",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 3,
+      "chinese": "草地贪夜蛾核型多角体病毒KYc01",
+      "english": "Spodopterafrugiperdamultiplenucleopolyhedrovirus (SfMNPV)KYc01",
+      "latin_name": "Spodopterafrugiperdamultiplenucleopolyhedrovirus (SfMNPV)KYc01",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 4,
+      "chinese": "草原毛虫核多角体病毒",
+      "english": "Gynaephoraruoergensisnucleopolyhedrovirus(GyruNPV)",
+      "latin_name": "Gynaephoraruoergensisnucleopolyhedrovirus(GyruNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 5,
+      "chinese": "侧孢短芽孢杆菌A60",
+      "english": "Brevibacilluslaterosporus A60",
+      "latin_name": "Brevibacilluslaterosporus A60",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 6,
+      "chinese": "茶尺蠖核型多角体病毒",
+      "english": "Ecotropisobliquanucleopolyhedrovirus(EcobNPV)",
+      "latin_name": "Ecotropisobliquanucleopolyhedrovirus(EcobNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 7,
+      "chinese": "茶毛虫核型多角体病毒",
+      "english": "Euproctispseudoconspersanucleopolyhedrovirus (EupsNPV)",
+      "latin_name": "Euproctispseudoconspersanucleopolyhedrovirus (EupsNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 8,
+      "chinese": "大孢绿僵菌",
+      "english": "Metarhizium majus",
+      "latin_name": "Metarhizium majus",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 9,
+      "chinese": "淡紫拟青霉Sd-m-16",
+      "english": "Purpureocilliumlilacinum Sd-m-16",
+      "latin_name": "Purpureocilliumlilacinum Sd-m-16",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 10,
+      "chinese": "稻纵卷叶螟颗粒体病毒",
+      "english": "Cnaphalocrocismedinalisgranulovirus(CnmeGV)",
+      "latin_name": "Cnaphalocrocismedinalisgranulovirus(CnmeGV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 11,
+      "chinese": "地衣芽孢杆菌",
+      "english": "Bacillusparalicheniformis",
+      "latin_name": "Bacillusparalicheniformis",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 12,
+      "chinese": "短稳杆菌",
+      "english": "Empedobacterbrevis",
+      "latin_name": "Empedobacterbrevis",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 13,
+      "chinese": "盾壳霉",
+      "english": "Paraphaeosphaeriaminitans",
+      "latin_name": "Paraphaeosphaeriaminitans",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 13,
+      "chinese": "盾壳霉ZB-1SB",
+      "english": "ParaphaeosphaeriaminitansZB-1SB",
+      "latin_name": "ParaphaeosphaeriaminitansZB-1SB",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 14,
+      "chinese": "多粘类芽孢杆菌",
+      "english": "Paenibacilluspolymyxa",
+      "latin_name": "Paenibacilluspolymyxa",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 14,
+      "chinese": "多粘类芽孢杆菌KN-03",
+      "english": "Paenibacilluspolymyxa KN-03",
+      "latin_name": "Paenibacilluspolymyxa KN-03",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 15,
+      "chinese": "耳霉菌",
+      "english": "Conidiobolusthromboides",
+      "latin_name": "Conidiobolusthromboides",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 16,
+      "chinese": "甘蓝夜蛾核型多角体病毒",
+      "english": "Mamestrabrassicaemultiplenucleopolyhedrovirus (MbMNPV)",
+      "latin_name": "Mamestrabrassicaemultiplenucleopolyhedrovirus (MbMNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 17,
+      "chinese": "寡雄腐霉菌",
+      "english": "Pythiumoligandrum",
+      "latin_name": "Pythiumoligandrum",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 18,
+      "chinese": "哈茨木霉菌",
+      "english": "Trichodermaharzianum",
+      "latin_name": "Trichodermaharzianum",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 18,
+      "chinese": "哈茨木霉菌DS-10",
+      "english": "Trichodermaharzianum DS-10",
+      "latin_name": "Trichodermaharzianum DS-10",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 18,
+      "chinese": "哈茨木霉菌LTR-2",
+      "english": "Trichodermaharzianum LTR-2",
+      "latin_name": "Trichodermaharzianum LTR-2",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 19,
+      "chinese": "海洋芽孢杆菌",
+      "english": "Jeotgalibacillusmarinus",
+      "latin_name": "Jeotgalibacillusmarinus",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 20,
+      "chinese": "厚孢轮枝菌",
+      "english": "Verticilliumchlamydmydosporium",
+      "latin_name": "Verticilliumchlamydmydosporium",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 21,
+      "chinese": "蝗虫微孢子虫",
+      "english": "Nosemalocustae",
+      "latin_name": "Nosemalocustae",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 21,
+      "chinese": "蝗虫微孢子虫PL-GM1",
+      "english": "NosemalocustaePL-GM1",
+      "latin_name": "NosemalocustaePL-GM1",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 22,
+      "chinese": "甲基营养型芽孢杆菌9912",
+      "english": "Bacillusmethylotrophicus9112",
+      "latin_name": "Bacillusmethylotrophicus9112",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 22,
+      "chinese": "甲基营养型芽孢杆菌LW-6",
+      "english": "BacillusmethylotrophicusLW-6",
+      "latin_name": "BacillusmethylotrophicusLW-6",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 23,
+      "chinese": "坚强芽孢杆菌",
+      "english": "Bacillusfirmus",
+      "latin_name": "Bacillusfirmus",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌",
+      "english": "Bacillusamyloliquefaciens",
+      "latin_name": "Bacillusamyloliquefaciens",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌AT-332",
+      "english": "Bacillusamyloliquefaciens AT-332",
+      "latin_name": "Bacillusamyloliquefaciens AT-332",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌B1619",
+      "english": "BacillusamyloliquefaciensB1619",
+      "latin_name": "BacillusamyloliquefaciensB1619",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌PQ21",
+      "english": "BacillusamyloliquefaciensPQ21",
+      "latin_name": "BacillusamyloliquefaciensPQ21",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌QST713",
+      "english": "Bacillusamyloliquefaciens QST713",
+      "latin_name": "Bacillusamyloliquefaciens QST713",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌SN16-1",
+      "english": "BacillusamyloliquefaciensSN16-1",
+      "latin_name": "BacillusamyloliquefaciensSN16-1",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌B7900",
+      "english": "BacillusamyloliquefaciensB7900",
+      "latin_name": "BacillusamyloliquefaciensB7900",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌HT2003",
+      "english": "Bacillusamyloliquefaciens HT2003",
+      "latin_name": "Bacillusamyloliquefaciens HT2003",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌LX-11",
+      "english": "BacillusamyloliquefaciensLX-11",
+      "latin_name": "BacillusamyloliquefaciensLX-11",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 24,
+      "chinese": "解淀粉芽孢杆菌ZY-9-13",
+      "english": "BacillusamyloliquefaciensZY-9-13",
+      "latin_name": "BacillusamyloliquefaciensZY-9-13",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 25,
+      "chinese": "金龟子绿僵菌",
+      "english": "Metarhiziumanisopliae",
+      "latin_name": "Metarhiziumanisopliae",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 25,
+      "chinese": "金龟子绿僵菌CQMa128",
+      "english": "MetarhiziumanisopliaeCQMa128",
+      "latin_name": "MetarhiziumanisopliaeCQMa128",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 25,
+      "chinese": "金龟子绿僵菌CQMa421",
+      "english": "MetarhiziumanisopliaeCQMa421",
+      "latin_name": "MetarhiziumanisopliaeCQMa421",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 26,
+      "chinese": "枯草芽孢杆菌",
+      "english": "Bacillussubtilis",
+      "latin_name": "Bacillussubtilis",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 27,
+      "chinese": "蜡质芽孢杆菌",
+      "english": "Bacilluscereus",
+      "latin_name": "Bacilluscereus",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 28,
+      "chinese": "类产碱假单孢菌",
+      "english": "Pseudomonaspseudoalcaligenes",
+      "latin_name": "Pseudomonaspseudoalcaligenes",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 29,
+      "chinese": "棉铃虫核型多角体病毒",
+      "english": "Helicoverpaarmigeranucleopolyhedrovirus(HearNPV)",
+      "latin_name": "Helicoverpaarmigeranucleopolyhedrovirus(HearNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 30,
+      "chinese": "苜蓿银纹夜蛾核型多角体病毒",
+      "english": "Autographacalifornicamultiplenucleopolyhedrovirus(Ac-MNPV)",
+      "latin_name": "Autographacalifornicamultiplenucleopolyhedrovirus(Ac-MNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 31,
+      "chinese": "芹菜夜蛾核型多角体病毒Kew1",
+      "english": "Anagraphafalciferanucleopolyhedrovirus (AnfaNPV)Kew1",
+      "latin_name": "Anagraphafalciferanucleopolyhedrovirus (AnfaNPV)Kew1",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 32,
+      "chinese": "球孢白僵菌",
+      "english": "Beauveriabassiana",
+      "latin_name": "Beauveriabassiana",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 32,
+      "chinese": "球孢白僵菌ZJU435",
+      "english": "BeauveriabassianaZJU435",
+      "latin_name": "BeauveriabassianaZJU435",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 33,
+      "chinese": "球形芽孢杆菌",
+      "english": "Bacillussphaericus",
+      "latin_name": "Bacillussphaericus",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 33,
+      "chinese": "球形芽孢杆菌(2362菌株)",
+      "english": "Bacillussphaericus (2363)",
+      "latin_name": "Bacillussphaericus (2363)",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 34,
+      "chinese": "杀线虫芽孢杆菌B16",
+      "english": "Bacillusnematocida B16",
+      "latin_name": "Bacillusnematocida B16",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 35,
+      "chinese": "撕裂蜡孔菌GXMS1",
+      "english": "IrpexlaceratusGXMS1",
+      "latin_name": "IrpexlaceratusGXMS1",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 36,
+      "chinese": "松毛虫质型多角体病毒",
+      "english": "Dendrolimuspunctatuscypovirus1 (DpCPV1)",
+      "latin_name": "Dendrolimuspunctatuscypovirus1 (DpCPV1)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 37,
+      "chinese": "苏云金芽孢杆菌",
+      "english": "Bacillusthuringiensis",
+      "latin_name": "Bacillusthuringiensis",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 37,
+      "chinese": "苏云金芽孢杆菌G033A",
+      "english": "BacillusthuringiensisG033A",
+      "latin_name": "BacillusthuringiensisG033A",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 37,
+      "chinese": "苏云金芽孢杆菌HAN055",
+      "english": "Bacillusthuringiensis HAN055",
+      "latin_name": "Bacillusthuringiensis HAN055",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 37,
+      "chinese": "苏云金芽孢杆菌库斯塔克亚种",
+      "english": "Bacillusthuringiensisserovarkurstaki",
+      "latin_name": "Bacillusthuringiensisserovarkurstaki",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 37,
+      "chinese": "苏云金芽孢杆菌以色列亚种",
+      "english": "thuringiensisserovarisraelensis",
+      "latin_name": "thuringiensisserovarisraelensis",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 38,
+      "chinese": "甜菜夜蛾核型多角体病毒",
+      "english": "SpodopteraexiguamultipleNucleopolyhedrovirus (SeMNPV)",
+      "latin_name": "SpodopteraexiguamultipleNucleopolyhedrovirus (SeMNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 39,
+      "chinese": "小菜蛾颗粒体病毒",
+      "english": "Plutellaxylostellagranulovirus(PlxyGV)",
+      "latin_name": "Plutellaxylostellagranulovirus(PlxyGV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 40,
+      "chinese": "小盾壳霉CGMCC8325",
+      "english": "ParaphaeosphaeriaminitansCGMCC8325",
+      "latin_name": "ParaphaeosphaeriaminitansCGMCC8325",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 41,
+      "chinese": "斜纹夜蛾核型多角体病毒",
+      "english": "Spodopteralituranucleopolyhedrovirus(SpltNPV)",
+      "latin_name": "Spodopteralituranucleopolyhedrovirus(SpltNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 42,
+      "chinese": "油桐尺蠖核型多角体病毒",
+      "english": "Buzurasuppressarianucleopolyhedrovirus(BusuNPV)",
+      "latin_name": "Buzurasuppressarianucleopolyhedrovirus(BusuNPV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 43,
+      "chinese": "粘虫颗粒体病毒",
+      "english": "Pseudaletiaunipunctagranulovirus(PsunGV)",
+      "latin_name": "Pseudaletiaunipunctagranulovirus(PsunGV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 44,
+      "chinese": "蟑螂浓核病毒",
+      "english": "Periplanetafuliginosadensovirus(PfDV)",
+      "latin_name": "Periplanetafuliginosadensovirus(PfDV)",
+      "microbial_category": "病毒",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 45,
+      "chinese": "爪哇虫草菌Ij01",
+      "english": "CordycepsjavanicaIj01",
+      "latin_name": "CordycepsjavanicaIj01",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 45,
+      "chinese": "爪哇虫草菌JS001",
+      "english": "CordycepsjavanicaJS001",
+      "latin_name": "CordycepsjavanicaJS001",
+      "microbial_category": "真菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    },
+    {
+      "id": 46,
+      "chinese": "沼泽红假单胞菌PSB-S",
+      "english": "RhodopseudomonaspalustrisPSB-S",
+      "latin_name": "RhodopseudomonaspalustrisPSB-S",
+      "microbial_category": "细菌",
+      "gb_table": "表2",
+      "gb_group": "微生物类农药"
+    }
+  ]
+}

@@ -1,162 +1,723 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:"Microsoft YaHei",sans-serif;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-body{
-    background:#f4f8f5;
-    color:#333;
+
+body {
+
+    font-family:
+        "Microsoft YaHei",
+        "Segoe UI",
+        Arial,
+        sans-serif;
+
+    background: #f4f7f4;
+
+    color: #222;
+
+    min-height: 100vh;
 }
 
-header{
-    background:#2e7d32;
-    color:white;
-    text-align:center;
-    padding:30px;
-    box-shadow:0 2px 10px rgba(0,0,0,.2);
+
+/* ===============================
+   顶部
+================================ */
+
+header {
+
+    background: #2e7d32;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 28px 20px;
+
+    box-shadow:
+        0 2px 12px
+        rgba(0,0,0,.15);
 }
 
-header h1{
-    font-size:34px;
-    margin-bottom:10px;
+
+header h1 {
+
+    font-size: 32px;
+
+    margin-bottom: 8px;
 }
 
-header p{
-    font-size:16px;
-    opacity:.9;
+
+header p {
+
+    font-size: 15px;
+
+    opacity: .9;
 }
 
-.search-area{
-    width:90%;
-    max-width:900px;
-    margin:30px auto;
+
+main {
+
+    width: 100%;
 }
 
-#search{
-    width:100%;
-    padding:16px;
-    border-radius:12px;
-    border:none;
-    font-size:18px;
-    outline:none;
-    box-shadow:0 3px 10px rgba(0,0,0,.15);
+
+/* ===============================
+   搜索
+================================ */
+
+.search-area {
+
+    width: 92%;
+
+    max-width: 1100px;
+
+    margin: 28px auto 18px;
 }
 
-#alphabet{
-    width:90%;
-    max-width:1000px;
-    margin:25px auto;
-    display:flex;
-    flex-wrap:wrap;
-    gap:8px;
-    justify-content:center;
+
+#searchInput {
+
+    width: 100%;
+
+    padding: 16px 20px;
+
+    font-size: 17px;
+
+    border: none;
+
+    outline: none;
+
+    border-radius: 14px;
+
+    background: white;
+
+    box-shadow:
+        0 3px 12px
+        rgba(0,0,0,.1);
 }
 
-.letter{
-    width:40px;
-    height:40px;
-    background:white;
-    border-radius:8px;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    cursor:pointer;
-    transition:.25s;
-    font-weight:bold;
-    box-shadow:0 2px 5px rgba(0,0,0,.12);
+
+#searchInput:focus {
+
+    box-shadow:
+        0 0 0 2px #66bb6a,
+        0 3px 12px rgba(0,0,0,.1);
 }
 
-.letter:hover{
-    background:#4caf50;
-    color:white;
-    transform:translateY(-2px);
+
+/* ===============================
+   统计
+================================ */
+
+.stats-bar {
+
+    width: 92%;
+
+    max-width: 1100px;
+
+    margin: 0 auto 18px;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 10px;
 }
 
-#wordList{
-    width:90%;
-    max-width:1000px;
-    margin:30px auto;
-    display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
-    gap:20px;
+
+.stats-bar span {
+
+    background: white;
+
+    padding: 8px 13px;
+
+    border-radius: 10px;
+
+    font-size: 14px;
+
+    box-shadow:
+        0 2px 7px
+        rgba(0,0,0,.07);
 }
 
-.card{
-    background:white;
-    border-radius:16px;
-    padding:22px;
-    box-shadow:0 5px 15px rgba(0,0,0,.12);
-    transition:.25s;
+
+.stats-bar strong {
+
+    color: #2e7d32;
 }
 
-.card:hover{
-    transform:translateY(-6px);
+
+/* ===============================
+   主按钮
+================================ */
+
+.main-controls {
+
+    width: 92%;
+
+    max-width: 1100px;
+
+    margin: 0 auto 20px;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 9px;
 }
 
-.english{
-    font-size:26px;
-    font-weight:bold;
-    color:#2e7d32;
-    cursor:pointer;
+
+.control-btn {
+
+    border: none;
+
+    background: white;
+
+    padding: 10px 15px;
+
+    border-radius: 10px;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+    box-shadow:
+        0 2px 8px
+        rgba(0,0,0,.08);
+
+    transition: .2s;
 }
 
-.chinese{
-    margin-top:10px;
-    font-size:20px;
+
+.control-btn:hover {
+
+    transform: translateY(-2px);
 }
 
-.button-area{
-    margin-top:18px;
-    display:flex;
-    gap:10px;
+
+.control-btn.active {
+
+    background: #2e7d32;
+
+    color: white;
 }
 
-button{
-    padding:10px 15px;
-    border:none;
-    border-radius:8px;
-    cursor:pointer;
-    font-size:15px;
-    transition:.2s;
+
+/* ===============================
+   A-Z
+================================ */
+
+#alphabet {
+
+    width: 92%;
+
+    max-width: 1100px;
+
+    margin: 20px auto;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 6px;
 }
 
-.play{
-    background:#4caf50;
-    color:white;
+
+.letter {
+
+    width: 36px;
+
+    height: 36px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background: white;
+
+    cursor: pointer;
+
+    font-weight: 600;
+
+    box-shadow:
+        0 2px 6px
+        rgba(0,0,0,.08);
+
+    transition: .2s;
 }
 
-.star{
-    background:#ff9800;
-    color:white;
+
+.letter:hover {
+
+    background: #e8f5e9;
 }
 
-.hide{
-    background:#607d8b;
-    color:white;
+
+.letter.active {
+
+    background: #4caf50;
+
+    color: white;
 }
 
-button:hover{
-    opacity:.85;
+
+/* ===============================
+   模式提示
+================================ */
+
+.mode-message {
+
+    width: 92%;
+
+    max-width: 1100px;
+
+    margin: 12px auto;
+
+    text-align: center;
+
+    color: #666;
+
+    font-size: 14px;
 }
 
-@media(max-width:768px){
 
-header h1{
-font-size:26px;
+/* ===============================
+   卡片区域
+================================ */
+
+#wordList {
+
+    width: 94%;
+
+    max-width: 1200px;
+
+    margin: 20px auto;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fill,
+            minmax(320px, 1fr)
+        );
+
+    gap: 18px;
 }
 
-.card{
-padding:18px;
+
+/* ===============================
+   单词卡片
+================================ */
+
+.card {
+
+    position: relative;
+
+    background: white;
+
+    border-radius: 16px;
+
+    padding: 21px;
+
+    min-width: 0;
+
+    overflow: hidden;
+
+    box-shadow:
+        0 4px 14px
+        rgba(0,0,0,.09);
+
+    transition: .2s;
 }
 
-.english{
-font-size:22px;
+
+.card:hover {
+
+    transform: translateY(-3px);
+
+    box-shadow:
+        0 7px 18px
+        rgba(0,0,0,.13);
 }
 
-.chinese{
-font-size:18px;
+
+.card.study-card {
+
+    cursor: pointer;
 }
+
+
+/* ===============================
+   英文
+================================ */
+
+.english {
+
+    display: flex;
+
+    align-items: flex-start;
+
+    gap: 8px;
+
+    color: #267b35;
+
+    font-size: 23px;
+
+    font-weight: 700;
+
+    line-height: 1.38;
+
+    min-width: 0;
+}
+
+
+.english-text {
+
+    min-width: 0;
+
+    max-width: 100%;
+
+    overflow-wrap: anywhere;
+
+    word-break: normal;
+}
+
+
+.speaker {
+
+    flex: 0 0 auto;
+
+    cursor: pointer;
+}
+
+
+/* ===============================
+   中文
+================================ */
+
+.chinese {
+
+    margin-top: 11px;
+
+    font-size: 18px;
+
+    line-height: 1.5;
+
+    color: #333;
+}
+
+
+.hidden-chinese {
+
+    display: none;
+}
+
+
+/* ===============================
+   学习提示
+================================ */
+
+.reveal-tip {
+
+    margin-top: 13px;
+
+    color: #999;
+
+    font-size: 13px;
+}
+
+
+/* ===============================
+   卡片按钮
+================================ */
+
+.card-actions {
+
+    margin-top: 18px;
+
+    padding-top: 14px;
+
+    border-top: 1px solid #eee;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 7px;
+}
+
+
+.card-actions button {
+
+    border: none;
+
+    padding: 7px 10px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    font-size: 13px;
+
+    background: #f1f3f1;
+
+    transition: .15s;
+}
+
+
+.card-actions button:hover {
+
+    background: #e5e9e5;
+}
+
+
+.card-actions button.active {
+
+    background: #fff3cd;
+
+    color: #9a6700;
+}
+
+
+/* ===============================
+   复习按钮
+================================ */
+
+.memory-actions {
+
+    margin-top: 15px;
+
+    display: flex;
+
+    gap: 8px;
+}
+
+
+.memory-actions button {
+
+    flex: 1;
+
+    border: none;
+
+    padding: 10px 5px;
+
+    border-radius: 9px;
+
+    cursor: pointer;
+
+    font-size: 14px;
+}
+
+
+.know-btn {
+
+    background: #dff4e3;
+
+    color: #236b30;
+}
+
+
+.fuzzy-btn {
+
+    background: #fff0c7;
+
+    color: #8a6300;
+}
+
+
+.forget-btn {
+
+    background: #ffe0e0;
+
+    color: #a12d2d;
+}
+
+
+/* ===============================
+   标签
+================================ */
+
+.tag {
+
+    display: inline-block;
+
+    margin-top: 10px;
+
+    margin-right: 6px;
+
+    padding: 4px 7px;
+
+    font-size: 12px;
+
+    border-radius: 7px;
+
+    background: #f2f2f2;
+
+    color: #666;
+}
+
+
+.review-tag {
+
+    background: #e8f5e9;
+
+    color: #287536;
+}
+
+
+.skip-tag {
+
+    background: #eceff1;
+
+    color: #607d8b;
+}
+
+
+/* ===============================
+   没有结果
+================================ */
+
+.empty-message {
+
+    grid-column: 1 / -1;
+
+    text-align: center;
+
+    padding: 50px 20px;
+
+    color: #777;
+}
+
+
+/* ===============================
+   分页
+================================ */
+
+.pagination {
+
+    width: 92%;
+
+    max-width: 900px;
+
+    margin: 25px auto 60px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 18px;
+}
+
+
+.pagination button {
+
+    border: none;
+
+    padding: 10px 18px;
+
+    border-radius: 9px;
+
+    background: #2e7d32;
+
+    color: white;
+
+    cursor: pointer;
+}
+
+
+.pagination button:disabled {
+
+    background: #aaa;
+
+    cursor: not-allowed;
+}
+
+
+#pageInfo {
+
+    font-size: 14px;
+
+    color: #555;
+}
+
+
+/* ===============================
+   随机模式
+================================ */
+
+.random-card {
+
+    grid-column: 1 / -1;
+
+    max-width: 620px;
+
+    width: 100%;
+
+    justify-self: center;
+
+    padding: 35px;
+}
+
+
+/* ===============================
+   手机
+================================ */
+
+@media (max-width: 650px) {
+
+    header h1 {
+
+        font-size: 24px;
+    }
+
+
+    #wordList {
+
+        width: 92%;
+
+        grid-template-columns: 1fr;
+
+        gap: 14px;
+    }
+
+
+    .card {
+
+        padding: 18px;
+    }
+
+
+    .english {
+
+        font-size: 21px;
+    }
+
+
+    .chinese {
+
+        font-size: 17px;
+    }
+
+
+    .pagination {
+
+        gap: 10px;
+    }
+
+
+    .pagination button {
+
+        padding: 9px 12px;
+    }
 
 }
